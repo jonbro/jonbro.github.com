@@ -1,0 +1,20 @@
+---
+layout: post
+title: The wide wide world of coding
+---
+
+Holy beejeez have I been busy. I don't really have much I can show for it yet, but it seems like a good enough time to tease a few things.
+
+First, I threw a game together for last months experimental gameplay project. Unfortunately the game was total crap, but a video popped out. I think it is uncouth to show vaporware trailers, but what the fuck do I care, I am an artiste! "Peep it":http://www.vimeo.com/7827794
+
+For "fun a day":http://funadaypgh.blogspot.com/ (which I am currently failing at, due to other obligations) I was trying to code a game / animation a day. The best one is "fun a day 3":/software/funaday3.zip, which is a one button game for mac osx. My favorite parts are the double jumping, and how simple it is to play. Woo! For my second playable game, I am pretty happy.
+
+I also just recently threw together some live video processing on the iphone. The code is not yet available, nor do I have a usable app, but I am totally into how "this API":https://devforums.apple.com/message/149553 captures anything on the screen.
+
+<a href="http://www.flickr.com/photos/jonbro/4298425301/" title="feedback computer + morgan by jonbro, on Flickr"><img src="http://farm5.static.flickr.com/4050/4298425301_5eb6752740.jpg" width="480" height="320" alt="feedback computer + morgan" /></a>
+
+It reminds me of how I used to fuck up in the dark room and end up with images that had pieces of glass or the numbers from filters super imposed on them. I am sure this isn't going to last into the next release of the iPhone SDK, so I better enjoy it now.
+
+The final thing is that I have been suffering from horrible arm pain for about the last three months. I finally started moving on it this week, and the first visit I had told me that I might need surgery. I went to another therapist, and they claimed that I wouldn't. I am starting to feel more hopeful about the whole thing.
+
+Also, I threw up a software section. Go Grabz.

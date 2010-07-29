@@ -1,0 +1,11 @@
+---
+layout: post
+title: Avoid
+---
+
+!/software/images/avoidance.jpg(avoidance)!
+
+My first game! Press left and right to swing from the different connection points. I am totally into the menu screens, the randomness of the game kinda bites it though.
+
+"Avoid osx":/software/avoid_mac.zip
+"Avoid windows":/software/avoid_windows.zip

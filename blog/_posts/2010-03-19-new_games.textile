@@ -1,0 +1,50 @@
+---
+layout: post
+title: New games
+---
+
+Since the beginning of the year I made a few new games, and I thought it might be helpful in making the next few not horrible if I take some time to talk about them, and their problems. A _post-mortem_ if you will. Will you?
+
+before I start talking, go grab them over on the "software page":/software/index.html. Be warned, one is mac, and the other is windows, so unless you have some virtual machine magic (or two machines), you are only getting half the fun.
+
+h2. bibababoa
+
+!/software/images/bibababoa.jpg(bibababoa)!
+
+This one was made for "gamma 4":http://www.kokoromi.org/gamma4/. A pretty standard collect the dots game, but with double jumping and weird dot order collection mechanic. I did about 4 prototypes before I landed on this game. Most of the prototypes had a similar collection mechanic, one of which was suprisingly similar to faraway:
+<br>
+<object width="500" height="385"><param name="movie" value="http://www.youtube.com/v/BetY8Byp0Os&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/BetY8Byp0Os&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="385"></embed></object>
+
+I ended up going with my third prototype because I really couldn't figure out how to make the orbital mechanic work well for me. Along the way I built and rebuilt a pretty nice particle engine that I am pretty sure will get some more use eventually.
+
+h3. ups
+
+Double jumping is awesome, and really feels like the only mechanic in the game that you have full control over. Also, when you can time to hit a series of different collections in the right order, it feels great. The fact that the game always ends on the "you win" screen is pretty nice too, altho, it leads nicely into the problems.
+
+h3. downs
+
+There is no real progression to the difficulty of the game, so you never feel like you are winning. I tried to make the collectibles move faster, but it just feels like luck, or bullet spam. At the last minute I put in these two giant heads that would do more standard bullet patterns, but I couldn't quite figure it out by the deadline, so I gave up on it. It did seem like the right solution though. I think the added element of interesting patterns would have made a huge difference of progression. It is also possible that changing the complexity of the collection rules would have helped the game. For example, level one, collect 10 of these things, level two, collection 15 of these things, and 2 of these other things.
+
+The graphics, while good, were actually something that I couldn't tweak quickly enough when I figured out that they caused problems. The biggest problem is that you character is so big that it doesn't really pay off when you have the double jumping mechanic, so there is really no reason to have it in there. I also dumped so much time into the graphics that I didn't have enough time to fix up the core gameplay problems.
+
+Finally, and related to the graphics, I used a custom drawn font. I totally fall into this trap on the other game as well, but I manage to decide that I don't give a fuck about consistancy at the last second, and use a system default font. It really made it hard for me to add new features in the game when I didn't have the whole alphabet, and I didn't have an easy way to get the whole alphabet onto the screen.
+
+h2. Drinky
+
+!/software/images/drinky.jpg(drinky)!
+
+I decided to give gamemaker a go, and this is the first game that I came up with. What a nice platform though. I just stream of conciousnessed the whole thing, and I think it came out alright considering how quickly I went through it. The game is roughly based on the first time that I talked to my girlfriend (except for one time when we were both in costumes, and trash talking each other). Also, I don't drink anymore. Maybe this game is about that too.
+
+h3. ups
+
+Holy crud does gamemaker rock at blowing out horrendous animations. I love this animation engine for making sprites (with the exception of the lack of onion skinning, wtf?). I was able to make way more sprites and objects than I normally would, due to how easy it was to get them into the game. The fact that I could just prototype in basic behaivors with a graphical programming language was wonderful for my hands as well. Also, the first time I have music and soundeffects in the game, and I think that they push it from _barable_ to _sorta ok_. I really want to clone gamemaker now. Also, finally one of my games has all the standard game elements... is that supposed to happen at game 4?
+
+h3. downs
+
+wtf. Why am I obsessed with bullet spam. I have been telling myself for the past few games (there are more than are on my software page), that I am going to actually do a game with some nice bullet and enemy patterns. For some reason I never get around to it. So bullet spam it is, and the lack of progression that goes along with it. I think the fact that I only have one level in the game causes that. I should probably learn how to follow through. As such, this game is only fun for about 3.5 mins.
+
+Also, handdrawn type and healthbars. I dumped so much time into these that could have been spent better. I need to remember how to prototype I guess.
+
+h3. conclusions
+
+So according to jesse schell, I have another 6 bad games to pump out before they are going to start getting good. Ok, better keep speeding along through these games, while I try to add some progression to them. Also, I need to stop getting bogged down in making graphics, and just use programmer colors for everything. Using ripped music, and sfxr for sound on drinky really helped get the full game together before I got bored.

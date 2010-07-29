@@ -1,0 +1,10 @@
+---
+layout: post
+title: Drinky
+---
+
+!/software/images/drinky.jpg(drinky)!
+
+Standard shmup, except sometimes you have to catch the bullets, and sometimes you don't, depending on who is shooting. Even though the _level one_ title would suggest that there is more than one level, there is not. It is about the first time I talked to my girlfriend.
+
+"Drinky win":/software/drinky.zip

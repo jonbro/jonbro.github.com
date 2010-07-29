@@ -1,0 +1,14 @@
+---
+layout: post
+title: Catch the Wav
+---
+
+I have won a film festival with the video below:
+
+<object width="100%" height="400"><param name="movie" value="http://www.youtube.com/v/z2Un259BDwE&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/z2Un259BDwE&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="100%" height="400"></embed></object>
+
+Kind of suprising, I totally expected it to get boo'ed. I made the video for thing a day back in 2006, and only sent it out to the disposable film fest. Luckly I had expected to send it to some other festivals, so I had a high res version around. My hard drives crashed twice between the time I made it and the time I entered it, so there was only the youtube copy and my unmailed dvd submissions.
+
+Also, my buddy k9d got inspired by the flying destructicate, and started doing microbooks. Check out "dinoaids":http://www.dinoaids.com for the releases. "I just did one of covers for the TWR project":http://dinoaids.com/006/dinoaids006-the-wizard-rises.pdf. They are super tiny, you just need a color printer and standard paper to print and assemble them. I like the lo-res netlabel nonsense aesthetic approach he is taking with the whole project.
+
+I am still looking for a netlabel to deal with releasing my jonbro-something album, but I am getting closer and closer to just posting it here. I think the legs on that project are becoming increasingly feeble.

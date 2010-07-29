@@ -1,0 +1,10 @@
+---
+layout: post
+title: Bibababoa
+---
+
+!/software/images/bibababoa.jpg(bibababoa)!
+
+A game for "gamma 4":http://www.kokoromi.org/gamma4/. This is basically the last game with _better_ graphics.
+
+"Bibababoa osx":/software/bibababoa.zip

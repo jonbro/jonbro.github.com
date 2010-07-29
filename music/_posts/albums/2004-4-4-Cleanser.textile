@@ -1,0 +1,9 @@
+---
+layout: post
+title: Cleanser
+---
+!(left_img)/music/images/cleanserreleasepic.jpg(Cleanser)!
+
+Released on GainLad, I wrote quite a bit of this while sitting in a car in california. Although gainlad is a lo-bit / gameboy music label, I actually wrote most of this in buzz and the demo version of renoise.
+
+"Download":http://gainlad.com/releases/gld06/ from "gainlad":http://gainlad.com/

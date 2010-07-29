@@ -1,0 +1,17 @@
+---
+layout: post
+title: Visionary Arts Festival (software release edition)
+---
+This weekend I am participating in the "Visionary Arts Festival":http://pghvisionaryartsfestival.blogspot.com/ in Schenley Park in Pittsburgh. I am showing two new pieces here, a graphical programming language for iPhone called itch (named for the software of inspiration, "mit's scratch":http://scratch.mit.edu/), and a set of tunnels and soundtracks programmed for NDS, PSP and Arduino.
+
+I have posted a few demo videos of itch:
+
+<object width="400" height="300"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=5946053&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=1&amp;color=01AAEA&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=5946053&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=1&amp;color=01AAEA&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></embed></object><p><a href="http://vimeo.com/5946053">Itch Demo 1</a> from <a href="http://vimeo.com/user157075">jonbro</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+<object width="400" height="270"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=5977663&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=1&amp;color=01AAEA&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=5977663&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=1&amp;color=01AAEA&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="270"></embed></object><p><a href="http://vimeo.com/5977663">Itch Demo 2: Variables</a> from <a href="http://vimeo.com/user157075">jonbro</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+"The source code to itch is available on github":http://github.com/jonbro/iphone_turtle, and I will be working on it, and adding features throughout the weekend.
+
+Also, I was informed this morning that "mujik has gone live on the app store":itms://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=324895775&mt=8&s=143441. What a weekend, I am going to melt into a puddle like the t-1000.
+
+!/images/vaf_booth.jpg(My Booth)!

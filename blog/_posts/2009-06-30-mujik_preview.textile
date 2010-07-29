@@ -1,0 +1,16 @@
+---
+layout: post
+title: Mujik Preview
+---
+
+Always wonderful to be working with good people. Along with "yann seznec":http://www.theamazingrolo.net/ and "mike greer":http://www.deepfriedconcepts.com/, I am proud to present the preview video for mujik, our upcoming iPhone software.
+
+<object width="400" height="225"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=5373563&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=5373563&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="225"></embed></object><p><a href="http://vimeo.com/5373563">Mujik Demo!</a> from <a href="http://vimeo.com/user157218">The Amazing Rolo</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+Some technical details, for those that can stomach the stuff. This was built with the wonderful "openframeworks":http://www.openframeworks.cc/, using some ideas that I jotted down during the workshop given during the "art and code conference":http://artandcode.ning.com/. 
+
+The audio is done using remoteIO, which may not have been the smartest decision, but certainly worked. I think for future projects I am going to experiment with using audioqueues, partially because they seem like a much easier interface, and partially because they might not require as much optomization in my audio routines.
+
+All of the textures ended up needing to be compiled into texture atlases, so we could fit them all in. The iPhone (<=3G) has an extremely small texture memory and we had to look for any place we could to shave bytes. I can't wait until everyone is on 3GS or greater, the graphics capabilities of the phone have been changed so much it is rediculous.
+
+There are a few more things to iron out, but look for this coming out in july.

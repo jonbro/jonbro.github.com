@@ -1,0 +1,11 @@
+---
+layout: post
+title: New Engine
+---
+
+I finally did it, a new engine for the site. I have now replaced the old and crusty wordpress with a new(old) and shiny(nerdy) flat file blogging system. Most of all, I am happy that I have collected all of the blog posts that I could track down from the past few years. I think I am going to leave my tumblr seperate for the time being, or maybe just jam it in along side the content here.
+
+Also, I am going to throw this up now, in its current busted state, but expect the feed, design, and old / lost content to show up over the next little while.
+
+6 months isn't long enough :D
+

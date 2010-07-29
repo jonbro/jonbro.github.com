@@ -1,0 +1,33 @@
+---
+layout: default
+title: Jonathan Brodsky | JonBro | Events
+---
+{% for post in site.categories.events %}
+
+<div class="post events" id="{{ post.id }}">
+  <h3 class="storytitle">
+    {% if post.full %}
+      <a href="{{ post.url }}" rel="bookmark">
+        {{post.title}}
+        {% if post.location %}
+          <span class='location'>{{ post.location }}</span>
+        {% endif %}
+      </a>
+    {% else %}
+      {{post.title}}
+      {% if post.location %}
+        <span class='location'>{{ post.location }}</span>
+      {% endif %}
+    {% endif %}
+	</h3>
+  <div class="meta">
+    {% for topic in post.topics%} {{ topic }} {% endfor %}&#8212; {{ post.date | date: "%d %b %y" }}
+  </div>
+  {% if post.full != true %}
+    <div class="storycontent">
+  		{{ post.content }}
+  	</div>	
+  {% endif %}
+</div>
+
+{% endfor %}
