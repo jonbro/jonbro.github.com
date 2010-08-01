@@ -2,7 +2,7 @@
 layout: post
 title: Bad Sectors - The Wizard Rises 2+3+4
 ---
-!http://dl.dropbox.com/u/43672/blog_static/music/images/wizard_rises_2_3.jpg(TWR4)!
+!(left_img)http://dl.dropbox.com/u/43672/blog_static/music/images/wizard_rises_2_3.jpg(TWR4)!
 
 MUCH LOVE TO PROC RECZ! I started doing _The Wizard Rises_ with two limitations: The entire set needs to be transportable by bike and There is no such thing as cliche.
 <div style="clear:both"></div>
