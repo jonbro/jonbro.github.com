@@ -2,8 +2,8 @@
 layout: post
 title: Fun a Day 3
 ---
-!/software/images/funaday3.jpg(funaday3)!
+!http://dl.dropbox.com/u/43672/blog_static/software/images/funaday3.jpg(funaday3)!
 
 One button game, done in about two hours. I reused some code for the main character, and the whole thing is build with the help of "openframeworks":http://openframeworks.cc. I am into the double jumping.
 
-"Fun a Day 3 osx 10.5":/software/funaday3.zip
+"Fun a Day 3 osx 10.5":http://dl.dropbox.com/u/43672/blog_static/software/funaday3.zip

@@ -7,7 +7,7 @@ Holy beejeez have I been busy. I don't really have much I can show for it yet, b
 
 First, I threw a game together for last months experimental gameplay project. Unfortunately the game was total crap, but a video popped out. I think it is uncouth to show vaporware trailers, but what the fuck do I care, I am an artiste! "Peep it":http://www.vimeo.com/7827794
 
-For "fun a day":http://funadaypgh.blogspot.com/ (which I am currently failing at, due to other obligations) I was trying to code a game / animation a day. The best one is "fun a day 3":/software/funaday3.zip, which is a one button game for mac osx. My favorite parts are the double jumping, and how simple it is to play. Woo! For my second playable game, I am pretty happy.
+For "fun a day":http://funadaypgh.blogspot.com/ (which I am currently failing at, due to other obligations) I was trying to code a game / animation a day. The best one is "fun a day 3":http://dl.dropbox.com/u/43672/blog_static/software/funaday3.zip, which is a one button game for mac osx. My favorite parts are the double jumping, and how simple it is to play. Woo! For my second playable game, I am pretty happy.
 
 I also just recently threw together some live video processing on the iphone. The code is not yet available, nor do I have a usable app, but I am totally into how "this API":https://devforums.apple.com/message/149553 captures anything on the screen.
 

@@ -5,11 +5,11 @@ title: New games
 
 Since the beginning of the year I made a few new games, and I thought it might be helpful in making the next few not horrible if I take some time to talk about them, and their problems. A _post-mortem_ if you will. Will you?
 
-before I start talking, go grab them over on the "software page":/software/index.html. Be warned, one is mac, and the other is windows, so unless you have some virtual machine magic (or two machines), you are only getting half the fun.
+before I start talking, go grab them over on the "software page":http://dl.dropbox.com/u/43672/blog_static/software/index.html. Be warned, one is mac, and the other is windows, so unless you have some virtual machine magic (or two machines), you are only getting half the fun.
 
 h2. bibababoa
 
-!/software/images/bibababoa.jpg(bibababoa)!
+!http://dl.dropbox.com/u/43672/blog_static/software/images/bibababoa.jpg(bibababoa)!
 
 This one was made for "gamma 4":http://www.kokoromi.org/gamma4/. A pretty standard collect the dots game, but with double jumping and weird dot order collection mechanic. I did about 4 prototypes before I landed on this game. Most of the prototypes had a similar collection mechanic, one of which was suprisingly similar to faraway:
 <br>
@@ -31,7 +31,7 @@ Finally, and related to the graphics, I used a custom drawn font. I totally fall
 
 h2. Drinky
 
-!/software/images/drinky.jpg(drinky)!
+!http://dl.dropbox.com/u/43672/blog_static/software/images/drinky.jpg(drinky)!
 
 I decided to give gamemaker a go, and this is the first game that I came up with. What a nice platform though. I just stream of conciousnessed the whole thing, and I think it came out alright considering how quickly I went through it. The game is roughly based on the first time that I talked to my girlfriend (except for one time when we were both in costumes, and trash talking each other). Also, I don't drink anymore. Maybe this game is about that too.
 

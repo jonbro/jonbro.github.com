@@ -2,7 +2,7 @@
 layout: post
 title: Make Your Own Truth Book Release
 ---
-!/images/make_your_own_truth.jpg(Make Your Own Truth Flyer Crop)!
+!http://dl.dropbox.com/u/43672/blog_static/images/make_your_own_truth.jpg(Make Your Own Truth Flyer Crop)!
 
 We are in the final production stages of this giant book that I have been working on with "Encyclopedia Destructica":http://www.encyclopediadestructica.com/ for the past 6 months or so. It ended up clocking in just under 500 pages, which is kind of mind bogglingly big for a handmade print publication. The covers are all neon and grey and have little poems on them by "starpaws":http://starpause.com, and awesome drawings from Chris of Encyclopedia Destructica. The grand total comes to 8 little books, and one big book all contained within a fancy slipcover.
 

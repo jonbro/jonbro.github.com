@@ -3,7 +3,7 @@ layout: post
 title: Mujik
 ---
 
-!/software/images/mujik.jpg(mujik)!
+!http://dl.dropbox.com/u/43672/blog_static/software/images/mujik.jpg(mujik)!
 
 Hey! Its some iPhone software, how nice. Coming off a giant chunk of monome programming, it made perfect sense for me to port some monome style controls to the iphone. Also this soft sounds super great with just a bunch of amen breaks (sorry, dev version only). So, basically I ripped off an app called "flip":http://docs.monome.org/doku.php?id=app:flip and then with a ton of help from my friends at luckyframe, we put together a sweet toy for the iphone. This was the first time I actually sold something that I had wholley designed myself, and it was also the first time I ever did any c programming. Basically a super fun nightmare trainwreck daydream.
 

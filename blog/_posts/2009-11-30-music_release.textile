@@ -3,4 +3,4 @@ layout: post
 title: A Music Release
 ---
 
-A new album release is linked to from the "music section":/music.html. I finished this way back in june, but I finally got around to contacting the amazing proc records to put it out. You should check out the "super hype up blog post":http://proc-records.blogspot.com/2009/11/proc355.html which says everything that I could say but better. I only want to add that it is part of the _the wizard rises_ project, which is intentially digging through cliche rich techno. 
+A new album release is linked to from the "music section":http://dl.dropbox.com/u/43672/blog_static/music.html. I finished this way back in june, but I finally got around to contacting the amazing proc records to put it out. You should check out the "super hype up blog post":http://proc-records.blogspot.com/2009/11/proc355.html which says everything that I could say but better. I only want to add that it is part of the _the wizard rises_ project, which is intentially digging through cliche rich techno. 
