@@ -2,7 +2,7 @@
 layout: post
 title: Cleanser
 ---
-!(left_img)/music/images/dealercover.jpg(Dealer)!
+!http://dl.dropbox.com/u/43672/blog_static/music/images/dealercover.jpg(Dealer)!
 
 Released on Floppyswop, a netlabel for releases that fit on 1.44 meg floppys. I was getting into acid house at the time, and I think it shows. Also with a nice little pixely cover.
 

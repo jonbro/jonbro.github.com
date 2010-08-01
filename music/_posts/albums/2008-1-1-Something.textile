@@ -3,7 +3,7 @@ layout: post
 title: Something
 ---
 
-!(left_img)/music/images/something_cover.jpg(something)!
+!http://dl.dropbox.com/u/43672/blog_static/music/images/something_cover.jpg(something)!
 
 I did this album because I was bursting at the seams, and I needed to play live. This is the first time that I played drums in a band since highschool, and the only time that I have ever sung in a band. The live show lasted from August 24th 2007 until approximately August 2008. I played at least once a month in Pittsburgh (sometimes several times a week), and thanks to the very friendly guy, Baron Knoxburry, played in Detroit and Ann Arbor. I could not have done this without the help of the hexawe crew as well.
 

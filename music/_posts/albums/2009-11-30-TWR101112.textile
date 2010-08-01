@@ -2,7 +2,7 @@
 layout: post
 title: 10 11 12
 ---
-!(left_img)/music/images/TWR_10_11_12.jpg(twr101112)!
+!http://dl.dropbox.com/u/43672/blog_static/music/images/TWR_10_11_12.jpg(twr101112)!
 
 A chuck of super cliche techno bangers! feel it! Thanks again to proc records for being amazing.
 

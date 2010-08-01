@@ -3,7 +3,7 @@ layout: post
 title: This shower is a suspended bucket
 ---
 
-!(left_img)/music/images/suspended_bucket.jpg(suspended bucket)!
+!http://dl.dropbox.com/u/43672/blog_static/music/images/suspended_bucket.jpg(suspended bucket)!
 
 First time getting remixed, first time releasing a track that wasn't 4/4. I am pretty happy with the production on this one.
 

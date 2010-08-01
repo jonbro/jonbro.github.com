@@ -2,7 +2,7 @@
 layout: post
 title: Thank you Mr. Clap (TWR R2)
 ---
-!(left_img)/music/images/TWR_R.jpg(TWR2R)!
+!http://dl.dropbox.com/u/43672/blog_static/music/images/TWR_R.jpg(TWR2R)!
 
 Remix of a "frostedtreesnowyfloor track I found on 8bc":http://www.8bitcollective.com/music/Frostedtreeandsnowyfloor2/LGPTPJ1%3AThank+you+Mr.+CLAP%21/. My second remix that I would consider as an actual remix rather than just a sample fodder thing.
 

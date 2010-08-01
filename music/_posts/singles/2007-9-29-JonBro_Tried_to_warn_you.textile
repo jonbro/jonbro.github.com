@@ -2,7 +2,7 @@
 layout: post
 title: Tried To Warn You
 ---
-!(left_img)/music/images/tried_to_warn_you.jpg(TWR4)!
+!http://dl.dropbox.com/u/43672/blog_static/music/images/tried_to_warn_you.jpg(TWR4)!
 
 One of the better tracks I wrote for the LGPT + Drums + Voice project. I was trying to just use very basic wave forms on all of these things.
 
