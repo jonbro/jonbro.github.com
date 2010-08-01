@@ -2,7 +2,7 @@
 layout: post
 title: Pillar of Schmaltz
 ---
-!http://dl.dropbox.com/u/43672/blog_static/music/images/POS.jpg(Pillar of Schmaltz)!
+!(left_img)http://dl.dropbox.com/u/43672/blog_static/music/images/POS.jpg(Pillar of Schmaltz)!
 
 Electro vs. Burt Bacharact. All LGPT, cover by "onnyc":http://www.twitter.com/onnyc
 

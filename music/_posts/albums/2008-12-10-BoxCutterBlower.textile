@@ -2,7 +2,7 @@
 layout: post
 title: BoxCutterBlower
 ---
-!http://dl.dropbox.com/u/43672/blog_static/music/images/boxcutterblower.jpg(boxcutterblower)!
+!(left_img)http://dl.dropbox.com/u/43672/blog_static/music/images/boxcutterblower.jpg(boxcutterblower)!
 
 Feeling totally bummed out, I made this super harsh improvisational noise album in the course of 24 hours. I also produced an extremely short run of 3 nice cds with printing and packaging. I have yet to sell/give them away.
 
