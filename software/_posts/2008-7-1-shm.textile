@@ -1,0 +1,10 @@
+---
+layout: post
+title: Shm
+---
+
+!http://dl.dropbox.com/u/43672/blog_static/software/images/shm.jpg(shm)!
+
+"Monome":http://monome.org software based on "mabalhabla":http://docs.monome.org/doku.php?id=app:mabalhabla. I took the core of a modal midi keyboard, and added four layers, as well as arpeggiators and event recorders. I have used it for the past two years in my band "shambolish":http://shambolish.com. I have intended for the entire time to make a release ready version of it, but never got around to it. So here is what will be an endless beta of the software. Please contact me if you have any need for further instructions on how to use the software.
+
+"SHM for max5":http://dl.dropbox.com/u/43672/blog_static/software/shm.zip
