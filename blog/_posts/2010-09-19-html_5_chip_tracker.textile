@@ -21,3 +21,7 @@ The worlds worst help file follows:
 * not everything that is on screen is actually implemented
 * spacebar stops and starts the song
 * / goes down one octave, ' goes up one octave
+
+_update_
+
+I put the "source code for this project":http://github.com/jonbro/AudioExperiments onto github, in case anyone wants to play with it.
