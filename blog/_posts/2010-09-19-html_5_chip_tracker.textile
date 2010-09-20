@@ -1,0 +1,23 @@
+---
+layout: post
+title: HTML 5 Chip Tracker
+---
+
+The recent builds of firefox have included support for realtime synthesis through javascript, and I though I would get in on the fun and build a toy with them. I of course went overboard, and decided to make something that you could actually use to write music with, and implemented a tracker. To note, this is a prototype, and rather than discarding it without showing it to world, I have posted it here for people to play with, and potentially dissect.
+
+Before we go further down the road of what the specific features are, and why it is cool, here is a quick video that should explain it a little bit if you are still unclear:
+
+<iframe src="http://player.vimeo.com/video/15107463?title=0&amp;byline=0&amp;color=01AAEA" width="400" height="424" frameborder="0"></iframe><p><a href="http://vimeo.com/15107463">html 5 tracker</a> from <a href="http://vimeo.com/jonbro">jonbro</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+If you want to play with it yourself, first go grab "a beta of firefox 4":http://www.mozilla.com/en-US/firefox/beta/, then head over to "the app":http://audexp.appspot.com/tracker/. You will need to log in with your google account, it allows for saving your songs as you work on them.
+
+The tracker currently allows for 8 channels of monophonic patterns, and each channel controls a synth that has either sine or noise waves, with a simple AD volume envelope.
+
+The worlds worst help file follows:
+* arrow keys navigate
+* enter goes down one screen, escape back up one screen
+* the bottom two rows of keys are used for entering notes, like a piano keyboard
+* places that seem to take numbers, try typing numbers into them, it should work
+* not everything that is on screen is actually implemented
+* spacebar stops and starts the song
+* / goes down one octave, ' goes up one octave
