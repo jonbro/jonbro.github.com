@@ -1,0 +1,6 @@
+---
+layout: post
+title: Wireworld Features and Bugs
+---
+
+last post, claimed I had added some features, but due to the bugs in them, it turned out I had not.
