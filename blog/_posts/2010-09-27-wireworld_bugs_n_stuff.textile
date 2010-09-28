@@ -4,3 +4,5 @@ title: Wireworld Features and Bugs
 ---
 
 last post, claimed I had added some features, but due to the bugs in them, it turned out I had not.
+
+Burned four hours because I assumed some code I had written earlier was still working, but it turns out it was not. Should have spent more time reading the API docs. Instead I found it by googling all of the objects near to where I knew where the error was happening, and eventually found the function that I needed to call.
