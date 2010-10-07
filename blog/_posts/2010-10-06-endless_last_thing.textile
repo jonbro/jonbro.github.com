@@ -1,0 +1,14 @@
+---
+layout: post
+title: The Endless "Final Feature"
+---
+
+I think I am closing in on this project. I sent it out to some super alpha testers last time I posted, and I didn't really get too much feedback that I was looking for. I am pretty sure that the project has exited the normal set of sound art projects that I was aiming for, and is now a super edge case program. No matter, I am still excited to play with it myself.
+
+I feel like I am closing in on the final features, I have one more big one, and then it is all just little tweaks to make the system behave correctly. I just finished the note setting feature tonight, and I was starting to feel like everything was a bit pointless. Luckily I still had some fun features to implement, like the trigger display. This was one of those features that brings the juice (to steal a term from "the experimental gameplay project":http://www.gamasutra.com/features/20051026/gabler_01.shtml). I just added it and my desire to show off the software went through the roof. I need to focus more on those types of things.
+
+The last feature that I want to add is having multiple triggers for each of the synths, so that you have have more than 8 notes triggering per patch, maybe even be able to make (god forbid) songs in it. The reason that I was putting it off was because it involves making arrays that grow in c++, and this is one of the topics that scares me. I managed to pull it off in about 10 mins for the trigger displays though, so apparently it isn't that bad. After that one, everything is just tweaking, making sure the software is not impossible to run and the like. Basically it is making sure that touches go to the right views, and not to the wrong. Right now it is kinda painful to paint the circuits, you keep splattering paint all over, and the "undo" that occurs right before scroll is a pain in the butt as well.
+
+<img src='http://dl.dropbox.com/u/43672/blog_static/images/wiresq_juice.jpg'>
+
+Also, WTF apple, requiring me to FAX you a change of address form? How about I get a page to ride his horse to you instead?
