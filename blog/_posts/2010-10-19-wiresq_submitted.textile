@@ -1,0 +1,18 @@
+---
+layout: post
+title: wiresq submitted
+---
+
+Hot dang, I am off to the races. That last feature ended up being about 10 more features, some of which were actually difficult. I also discovered that even though I thought I had done enough testing on the 3g, the audio dropouts were beyond stupid. Luckily I had left a bunch of pointless processing in the audio pipeline, so I was able to get a huge performance jump by just deleting about 20 lines of code. I should always do that.
+
+Also it turns out that I hate doing marketing materials more than anything else in the world. I wish that just blogging about it would solve my problems, but then only 10 people in the world would hear about it. I did manage to write up an ok blurb, and do an ok video, but I really need to redo the video, and include some humans in it.
+
+The other thing that I am going to do is just put off approx. a 200 hours of additional features to version 2. I started in on the top layer of them, but I just couldn't justify missing the date to get them in. They will be good though, this app has so many possibilities that it makes my head spin.
+
+Speaking of the possibilities, I should talk a bit about why I made this. Some people are aware of the 3.3.1 restriction for iphone apps, the so called war on turing completeness. I am well in the camp of this being a really sad restriction, not because I particularly have a great interest in scripting languages (I do), but more because I believe that there are a ton of opportunities to teach programming literacy, and I think the iphone and ipad are one great place. My first introduction to programming was qbasic, but I never created an actual piece of software until I learned "max/msp":http://cycling74.com/products/maxmspjitter/. I also look at things like "scratch":http://scratch.mit.edu/ and see something that would be perfect to port to the iphone.
+
+However, I really want to test the waters of what is allowed in terms of turing completeness. I know that this particular app might be rejected, but I think it would be something I could argue. Yes, this is turing complete, but saying that you are acessing any of apples APIs in any ways would be absurd. It would also be absurd to say that this is a programming language, unless you really want to stretch the definition. The closest thing this could be compared to would be a circuit simulator, but even those generally give you slightly higer level abstractions.
+
+I am starting to get concerned about making this post, but ah well, fast and loose!
+
+Oh, I know that asking people not to share a link on the internet is absurd, but if you could keep this link to yourself, that would be awesome: "wiresq video and helpfiles":http://heavyephemera.com/wiresq/index.html. I am planning on making a better video prior to release, and that is the one that I want to be passed around to everyone. Thanks much to all 10 of you that read my blog!
