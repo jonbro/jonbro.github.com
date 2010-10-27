@@ -15,4 +15,6 @@ However, I really want to test the waters of what is allowed in terms of turing 
 
 I am starting to get concerned about making this post, but ah well, fast and loose!
 
-Oh, I know that asking people not to share a link on the internet is absurd, but if you could keep this link to yourself, that would be awesome: "wiresq video and helpfiles":http://heavyephemera.com/wiresq/index.html. I am planning on making a better video prior to release, and that is the one that I want to be passed around to everyone. Thanks much to all 10 of you that read my blog!
+<del>Oh, I know that asking people not to share a link on the internet is absurd, but if you could keep this link to yourself, that would be awesome: "wiresq video and helpfiles":http://heavyephemera.com/wiresq/index.html. I am planning on making a better video prior to release, and that is the one that I want to be passed around to everyone. Thanks much to all 10 of you that read my blog!</del>
+
+Scratch that, share at will! "wiresq video and helpfiles":http://heavyephemera.com/wiresq/index.html.
