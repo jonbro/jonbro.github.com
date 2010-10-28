@@ -1,0 +1,12 @@
+---
+layout: post
+title: Wiresq Released!
+---
+
+Good news everyone! Wiresq is now public. "Go grab it at the app store":http://itunes.apple.com/us/app/wiresq/id399289681?mt=8.
+
+I also made this spiffy video for it last night.
+
+<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/1hoa0dUYm9c?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/1hoa0dUYm9c?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+
+Obviously, at this point, please share as much as possible. Thanks much everyone!
