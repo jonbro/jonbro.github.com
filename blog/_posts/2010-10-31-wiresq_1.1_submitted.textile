@@ -1,0 +1,24 @@
+---
+layout: post
+title: Wiresq 1.1 Submitted
+---
+
+Well that was quick. About a week and a half after I submitted the first version of wiresq, I have submitted an update. I was initially intending to just do a bug fix release, but due to circumstances, I decided to push in a few features as well. Just for fun, I am going to list out all the technical stuff, maybe it will be interesting to people playing along.
+
+*Bugfixes:*
+
+* _The cool halos from the demo vid will now show up as you play with the app_. This was a pretty horrible typo, I was doing a loop that decremented, but it didn't go anywhere because the conditional had already been matched when the loop started. I am hoping this doesn't rough up the performance too much on 3g and lower devices, but depending on what people say, I might try to fix this up again.
+* _The square wave is now actually a square wave, not a triangle wave_. Again, a typo. I put in the code to implement the square wave, but forgot to call it when the synth was set to a squarewave.
+* _Touches will not fall through to the speed control_. Woo, this one was wierd, and totally due to the vageries of my event system. I was forgetting to remove the touch event listeners from the speed control sliders when they were hidden by clicking on the playfield.
+* _You will not lose your settings for SYN0 after returning to the app_. This was the biggest pain to track down. Again, it was due to vagaries in my event system, I maintain two copies of the current synth settings, but the first synth was always getting zero'd out. It turned out that I had an update loop running on my synthEdit object when I didn't mean to, and before I had loaded any of the relevant synth data.
+
+*Features:*
+
+* _Added integrated help files_. Now you don't need to jump out of the app to find out how to run the app. 
+* _Synth Volume control_. No longer will your tracks be muddy when there are tons of notes being triggered. 
+* _File saving and loading_. You can also access your saved files through the itunes document sharing, which will allow you to share your files with other people.
+* _Analytics_. This will probably just help me, but in turn, I am hoping that will help my users.
+
+The reason that I ended up adding so many features was because it became pretty clear, pretty quick after launch that I needed to have integrated help. I hope it is just the vocal minority that was complaining on the itunes store about not being helped enough after launching the app. I have pretty nice help files up on the apps site, but I guess that is too far away for some reviews, so I decided to put them into the app itself. Because I was jumping out of openframeworks at that point, and into standard UIKit, it was pretty easy to get the saving / loading stuff implemented at this point as well. I had also done a bunch of the implementation legwork, so it was mostly just display work.
+
+I have a bunch more stuff that I want to implement, so don't think that this app is going to be forgotten, and please keep the emails and reviews rolling in. I don't mind criticism, I swear!
