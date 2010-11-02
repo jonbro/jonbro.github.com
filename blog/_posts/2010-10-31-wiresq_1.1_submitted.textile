@@ -9,7 +9,7 @@ Well that was quick. About a week and a half after I submitted the first version
 
 * _The cool halos from the demo vid will now show up as you play with the app_. This was a pretty horrible typo, I was doing a loop that decremented, but it didn't go anywhere because the conditional had already been matched when the loop started. I am hoping this doesn't rough up the performance too much on 3g and lower devices, but depending on what people say, I might try to fix this up again.
 * _The square wave is now actually a square wave, not a triangle wave_. Again, a typo. I put in the code to implement the square wave, but forgot to call it when the synth was set to a squarewave.
-* _Touches will not fall through to the speed control_. Woo, this one was wierd, and totally due to the vageries of my event system. I was forgetting to remove the touch event listeners from the speed control sliders when they were hidden by clicking on the playfield.
+* _Touches will not fall through to the speed control_. Woo, this one was weird, and totally due to the vagaries of my event system. I was forgetting to remove the touch event listeners from the speed control sliders when they were hidden by clicking on the playfield.
 * _You will not lose your settings for SYN0 after returning to the app_. This was the biggest pain to track down. Again, it was due to vagaries in my event system, I maintain two copies of the current synth settings, but the first synth was always getting zero'd out. It turned out that I had an update loop running on my synthEdit object when I didn't mean to, and before I had loaded any of the relevant synth data.
 
 *Features:*
