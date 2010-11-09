@@ -24,3 +24,5 @@ The reason that I ended up adding so many features was because it became pretty 
 Because I was jumping out of openframeworks at that point, and into standard UIKit, it was pretty easy to get the saving / loading stuff implemented at this point as well. I had also done a bunch of the implementation legwork, so it was mostly just display work.
 
 I have a bunch more stuff that I want to implement, so don't think that this app is going to be forgotten, and please keep the emails and reviews rolling in. I don't mind criticism, I swear! I am tracking the issues at the "github source site":http://github.com/jonbro/heavyephemera/issues, so if you have a login there, please feel free to add directly to the issue tracker. I have yet to dig through all of my email and copy it over to the tracker yet, so you might not see your request there until tomorrow night or so.
+
+"To the app store!":http://itunes.apple.com/us/app/wiresq/id399289681?mt=8
