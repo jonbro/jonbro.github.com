@@ -1,0 +1,10 @@
+---
+layout: post
+title: Wiresq 1.1 Crashing Issues
+---
+
+Man, I missed a big one there. Turns out that the 1.1 version of wiresq had a pretty big crashing bug in it. I don't want to rush out an update, because that is how it ended up in this version, but I do want to help out those that were effected by it (pretty much everyone that purchased at v.1.1, rather than upgrading).
+
+If you were effected, and would like a free copy, please contact apple for a refund, and then proceed to contact me for a promocode. My email address is jonbro@gmail.com. As far as I can tell from the promocode contract, I am allowed to do that.
+
+Ah bugs, you can't avoid them, but you can try to minimize and if that doesn't work, make people not feel ripped off.
