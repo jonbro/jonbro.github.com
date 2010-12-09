@@ -3,6 +3,8 @@ layout: post
 title: Programming Games
 ---
 
+I have been sending this list of games to my friends over and over, so I figured it was time to formalize and detail and post. It also gave me an excuse to practice "dvorak":http://www.dvzine.org/. Let's go!
+
 "Carnage Heart":http://en.wikipedia.org/wiki/Carnage_Heart - for psx was the first of these games that I ran across, although I was in no way prepared to deal with it. For those that don't know it, it is a mecha RPG, but the core of the game is a complex flowchart system. Using these flowcharts, you can program the mechs for battle, setting movement rules, firing distances, and the like. Unfortunatwely the game had a learning curve that was near verticle. I didn't play the second installment, but from what I understand, they only ramped up the difficulty. 
 This game is absolutly targeted at real programmers, not people that just want to mess around. I wish I still had a copy, so I could revisit it with my current knowledge.
 
