@@ -1,4 +1,7 @@
-progamming games
+---
+layout: post
+title: Programming Games
+---
 
 I have been sending this list of games to my friends over and over, so I figured it was time to formalize and detail and post. It also gave me an excuse to practice "dvorak":http://www.dvzine.org/. Let's go!
 
