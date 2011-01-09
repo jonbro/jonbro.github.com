@@ -1,0 +1,10 @@
+---
+layout: post
+title: Wiresq
+---
+
+!http://dl.dropbox.com/u/43672/blog_static/software/images/wiresq.jpg(wiresq)!
+
+A cellular automata based sequencer and synthesizer. Is available in the app store and is still in ongoing development. To a large extent, it is an experiment in pushing the boundaries of apples "no interpreters" rule.
+
+"Wiresq appstore":http://itunes.apple.com/us/app/wiresq/id399289681?mt=8 "Wiresq Demo Video":http://www.youtube.com/watch?v=1hoa0dUYm9c
