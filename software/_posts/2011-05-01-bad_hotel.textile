@@ -1,0 +1,10 @@
+---
+layout: post
+title: Bad Hotel
+---
+
+!http://dl.dropbox.com/u/43672/blog_static/software/images/bad_hotel.png(bad hotel)!
+
+An action puzzeler building game made for "ludum dare 20":http://ludumdare.com. With music from "Yann Seznec":http://theamazingrolo.net. You can see the whole development journal here. It is kind of a pain to play, but you can create cool looking "DLA":http://en.wikipedia.org/wiki/Diffusion-limited_aggregation style buildings in it, until they get knocked down by missiles.
+
+"Bad Hotel Flash":http://bit.ly/jwmcZ6
