@@ -1,0 +1,53 @@
+---
+layout: post
+title: Uncover the Gold
+---
+
+I just got [Challenges for Game Designers](http://www.amazon.co.uk/Challenges-Game-Designers-Brenda-Brathwaite/dp/158450580X) recently, and have started working on the various excercises in it. I don't know how many I will post, but here is the first one that I finished off. This game is a response to chapter 2, challenge 1: the path.
+
+uncover the gold
+----------------
+
+A card game for two players (tested with 2 players, may be possible with more)
+
+
+*Required Pieces*
+
+One 52 card deck
+A token for each player
+
+
+*Setup*
+
+Lay out the cards in 13 stacks of 4. These stacks should lie on the table in 3 rows of 4 and one row of one. This last stack is the goal stack.
+
+The players place their tokens on the first stack on the bottom row.
+
+
+*Setup Diagram*
+
+	[goal]
+	[] [] [] []
+	[] [] [] []
+	[tokens] [] [] []
+
+*Object*
+
+To take the last card from the goal stack
+
+*Order of play*
+
+On each turn, each player may do one of three things:
+
+1. Move their token forward one stack, and pick up a card from the stack their token landed on.
+2. Discard a number card, and move their token forward the number of stacks displayed on the card. Draw a card from the stack they land on.
+3. Discard a face card, and place another card from your hand on one of the remaining stacks on the table. Move your token forward one, and do not draw from the stack you land on.
+
+
+*some notes*
+
+This game feels a bit like reshuffling the deck to me, I don't know if there are enough meaningful decisions that can be made over the course of a session of play. That said, I did win three games in a row (and although the rules changed slightly between each game) it felt as if there was some strategy that was going on.
+
+Also, I somewhat ignored the rules of the assignment and made a racing game where the goal position changed depending on how the players played the rest of the round.
+
+Thinking about further changes, and reading the tips specified at [Tic Tac Totality](http://www.tic-tac-totality.net/wiki/index.php?title=Game_Design_Principles) I think that there are a few things to change. First, make the player that gets the last card on any stack the loser. That way you can try to force someones hand, and there are way more failure points. The second way that I think it could be tightened up would be to have only 4 stacks, one for each suit, which would again make the game a bunch tighter.
