@@ -5,6 +5,6 @@ title: UNISLOT
 
 !http://dl.dropbox.com/u/43672/blog_static/software/images/unislot.jpg(unislot)!
 
-Made with "luckyframe":http://www.luckyframe.co.uk. The most ruductive flash gambling game that we could come up with. Even so, it has a few features. An intersting experiment in what makes gambling fun, and how little gambling you can have around to have something be fun.
+Made with "luckyframe":http://www.luckyframe.co.uk. The most reductive flash gambling game that we could come up with. Even so, it has a few features. An intersting experiment in what makes gambling fun, and how little gambling you can have around to have something be fun.
 
 "UNISLOT on kongregate":http://www.kongregate.com/games/LuckyFrame/unislot
