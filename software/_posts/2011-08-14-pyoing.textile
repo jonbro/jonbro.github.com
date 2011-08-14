@@ -1,0 +1,10 @@
+---
+layout: post
+title: Pyoing
+---
+
+!http://dl.dropbox.com/u/43672/blog_static/software/images/pyoing.jpg(pyoing)!
+
+A two player game for Ludum Dare mini 28. More or less a clone of crossfire, the finest ball bearing game from the 90s. I did more of a "writeup on LD":http://www.ludumdare.com/compo/2011/08/09/pyoing-live-on-the-app-store/ about the making of. I am hoping to make this part of a suite of two player games for ipad / iphone.
+
+"Pyoing on itunes store":http://www.itunes.com/apps/pyoing
