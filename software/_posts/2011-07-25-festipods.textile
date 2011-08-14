@@ -1,0 +1,12 @@
+---
+layout: post
+title: Festipods
+---
+
+!http://dl.dropbox.com/u/43672/blog_static/software/images/festipods.jpg(festipods)!
+
+A project for the Edinburgh festivals lab, using their new api. I was also interested in using both webGL and processingjs on this project, and it worked out pretty great I think. The art was done by Lucky Frame's newest employee, Sean McIlroy. I think he did an awesome job breathing life into these little beasties. The other fun thing was extending processing js to support the necessary code for doing texture mapping and tinting of images. That code should be on the main branch shortly.
+
+Of course, there is "a much better writeup on the Lucky Frame blog":http://www.luckyframe.co.uk/2011/07/introducing-festipods/.
+
+"Festipods":http://www.festipods.co.uk
