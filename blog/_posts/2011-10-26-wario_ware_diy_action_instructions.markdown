@@ -4,6 +4,8 @@ title: WarioWare DIY action instructions
 comments: true
 ---
 
+![wario](http://dl.dropbox.com/u/43672/blog_static/images/wario.jpg)
+
 I couldn't find a comprehensive list of all of the actions that are available in warioware diy for programming your games, so I thought I would write one up for people that are interested in focused game scripting. Nintendo did some really clever things here that both make the types of games that you can do really small, and make those types of games really easy to make. The mechanics that you can have in your game are pretty straight forward, and it allows you to make ghosts of familiar genres, but not the genres themselves.
 
 Trigger Conditions
