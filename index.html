@@ -13,6 +13,10 @@ title: Jonathan Brodsky | JonBro
 	</div>
 
 	<div class="feedback">
+		{% if post.comments %}
+		<br/><br/>
+			<a href="{{ post.url }}#comments" rel="bookmark">View Comments</a>
+		{% endif %}
 	</div>
 </div>
 
