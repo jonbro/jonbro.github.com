@@ -10,6 +10,8 @@ layout: default
 	</div>
 
 	<div class="feedback">
+	{% if page.comments %}
+		{% include comments.html %}
+	{% endif %}
 	</div>
-
 </div>
