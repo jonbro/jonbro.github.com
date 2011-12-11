@@ -1,0 +1,32 @@
+---
+layout: post
+title: TODO list
+---
+
+I am just in the process of finishing a really big project, and as such, I have a bunch of little projects that I have been pushing off, or not finishing in the interest of completing the big project. Now that it is coming to a close, I am starting to think about which of these little projects I can take on in my brief vacation and make into something nice.
+
+## Blud opensource ##
+
+The [aforementioned big project](http://www.luckyframe.co.uk/pugsluvbeats/), and a number of small projects have been built on top of this toolkit, that I built ontop of another toolkit. I really wanted a version of [love2d](http://love2d.org) that I could run on iphone. I just like writing in languages that don't require header files and make it really really easy to mess around with your object instances.
+
+So I put a bunch of lua bindings on top of openframeworks, and some of the openframeworks addons that seemed useful, and have built a number of games with it. It actually started with this ludum dare game [soundman stepper](http://www.ludumdare.com/compo/ludum-dare-19/?uid=1187) and I have used it on two more ludum dare entries. It is getting to the point where I can throw together 3-4 hour games with it that are almost app store quality.
+
+The issue is that I know it like the back of my hand, and it would be a really long road to go to make it useful for other people. In fact, I don't even know where to start or what the major problems are. I also don't know if anyone cares. There are plenty of frameworks out there that do really similar things, and I don't particularly feel any great need to compete with them. I guess I am going to put this one off until someone asks me for it.
+
+## Itch ##
+
+Man this one is a goddamn millstone. It started as a clone of scratch for iphone about 2 years ago. I got it pretty far and then dropped it until this october. I rebuilt it using blud, and got it pretty far into a nice graphical code editor. There are a few missing opcodes (arn't there always), but it is pretty nice.
+
+Then I started in on a drawing app (ya know, because scratch has one), and then I realized how scary big this project is, and then dropped it.
+
+I suspect that if this one doesn't get picked up again, and soon, it might be another year before I get back into it. I would really like to release something with it though, because I think it is pretty cool.
+
+## LIPO ##
+
+Or little iphone tracker. I havn't written any music (seriously) for over a year. I have just been too busy with other stuff. Part of me wants to blame my tools though. My last composition tool that I really loved was [LGPT](http://littlegptracker.com/), but keeping around a platform that ran it became too much of a pain. Before that, my favorite was LSJD, and before that buzz. All the interface spawn of octamed to a certain extent.
+
+I have been pining for something that has that model for iphone, but havn't been able to figure out how to deal with translating the smoothness of the chording buttons + dpad that they all used so well. I have a brain bolt last week that might be the right thing, and started bashing it out. I would really like to dig into this and figure out if it is the right interface decision, but I don't want to add yet another project to the pile of incompletes.
+
+## Blog Post ##
+
+Did that.
