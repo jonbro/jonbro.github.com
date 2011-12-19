@@ -1,0 +1,13 @@
+---
+layout: post
+title: Pugs Luv Beats
+---
+
+!http://dl.dropbox.com/u/43672/blog_static/software/images/plb_splash.png(pugs luv beats)!
+
+I will probably do a bigger post on the concept and development and such, but in short, this is a music _composition_ game. The difference is that most music games are performance games, and as such focus on the creative pursuit of generally playing other peoples music. We tried to make something that is more about creating your own music. 
+
+It was an intensly collaborative project with my friends at "Lucky Frame":http://www.luckyframe.co.uk . And at 6 months in prototyping and development, the longest game project that I have done by a factor of 10^4.
+
+"Pugs Luv Beats on itunes store":http://itunes.apple.com/app/pugs-luv-beats/id488112663
+"Nice writeup on Create Digital Music":http://createdigitalmusic.com/2011/12/pugs-luv-beats-marries-music-gaming-on-ios-how-it-was-made-how-free-libpd-music-tool-helped/
