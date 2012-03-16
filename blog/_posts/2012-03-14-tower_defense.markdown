@@ -1,0 +1,35 @@
+---
+layout: post
+title: Music Tower Defense Notes
+comments: true
+---
+
+I have been through a number of prototypes for the followup to pugs luv beats, and I think that I am closing in on a working direction. I think this is the 5th one in a series of wildly different ideas. Where this post starts, we are thinking about doing a tower defense where the towers are step sequencers. We also are thinking about having a main controllable character for setting up the towers, like the engineer in team fortress.
+
+I am going to do this prototype more out in the open than the one for pugs luv beats, at least until someone tells me to stop. Hopefully it will give people an idea of how we work, as well as give me a way to get feedback from a larger group. I will be updating this post as often as I can with new stuff.
+
+## Notes 14-3
+
+Bloons tower defence 3 does not have any health bar style readouts on the state of the enemies. It displays the states of the enemies as distinct graphics. On the first 20 levels, I only saw 6 states, four of which mapped directly to health states, and two of which mapped to special states. One of these was an enemy that contained multiple enemies. The other one was an enemy that could only be pushed into a killable mode through a special attack type.
+
+Revenge of the titans survival mode only had 6 tower types. On further review, this is controlled by the main game tech tree. The six that were opened up were due to the way that I had approached the game. A resource collector, and a tower that buffed it. It had three types of attack towers, but these were effectively all the same, just speed boosts of the base tower. The last tower was a healer for the attack towers. It also had a bunch of one time use pickups, so a bunch of the game was trying to find these on the screen. I think that once the game went past 7.5 mins or so, it stopped doing highlights of these as they random dropped, which made grabbing them a ton harder. The enemies didn't have displayed health, but you could guess how many hits they were going to take through their general size. Also the size of the crowd was a general display of the amount of health that you were going to have to deal with. The large enemies had a health display that only showed while they were under attack. The same for your towers, although highlighting them seemed to display their health.
+
+The prototype got this far today:
+
+![Prototype 1](http://yfrog.com/g0votbp:iphone)
+
+## Notes 16-3
+
+I started the prototype at this point today:
+
+![Prototype 2](http://yfrog.com/klj3ilp:iphone)
+
+I added the enemies back in, and corrosponding lose states. The enemies are a bit dumb right now, they just spawn a certain distance at a random angle from the players base, and move towards it. I think that at some point they should probably move towards towers that are attacking them, and try to take out the players towers. The enemies also drop money that you can use to build new towers, or upgrade your exisiting towers. I haven't played it to an endgame yet because of some bugs, but that is my first plan of the day.
+
+One of the biggest issuse with this prototype right now is how confusing it is to look at. I think that by limiting the expansion of the towers so that they cannot overlap, it should create nice textures on the screen as well as removing some of the visual confusion.
+
+Also, you may notice that I have a virtual control stick in the bottom left, and two big virtual buttons. I really would like to get rid of both of those things. I may try out the bit pilot controls for the moving the character, but I am concerned that they won't map well to a game where you want your player to end at a particular spot, rather than vacate their current position in a specific vector. This may just be me waffling over details though.
+
+I am currently using just blinking graphics to signify audio, but I noticed a few issues that may mean really boring audio. It seems that an optimal strategy may mean that the notes that are playing from the towers will just be a totally steady drum beat. I am not sure how to deal with that, but perhaps putting in actual audio may help with discovering a cure. Will probably use the pugs luv beats sound engine as I have been on all of the prototypes to try to figure it out.
+
+Other than those two big issues, I want to add context sensitive towers, so that if you build a tower close to an onscreen resource, then it harvests that resource. That may be adding too much complexity, but the only way to find out is to add it unfortunately.
