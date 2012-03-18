@@ -4,17 +4,17 @@ title: Music Tower Defense Notes 2
 comments: true
 ---
 
-Yesterday I reached a breakthrough in the simplification of the game. I realized that although having a single player avatar gave players a more human connection to the actions that were occurring in the game, it didn't add anything to the sound that was being produced, and in fact the sound was not that interesting at all. I came home, and ripped out the player character, and started rebuilding something similar to an old LD game that I did, [bad hotel](http://jonbro.tk/software/2011/05/01/bad_hotel.html).
+Yesterday I reached a breakthrough in the simplification of the game. I realized that although having a single player avatar gave players a more human connection to the actions that were occurring in the game, it didn't add anything to the sound that was being produced, and in fact the sound was not that interesting at all. I came home, and ripped out the player character, and started rebuilding something similar to an old LD game that I did, "bad hotel":http://jonbro.tk/software/2011/05/01/bad_hotel.html.
 
-The other thing that I ripped out was the audio engine that I was using. Although I love the pugs luv beats sounds, I think they were getting in the way of me imagining anything new. [Martin Brinkmann has a really nice set of instruments](http://www.martin-brinkmann.de/pd-patches.html) up on his website, so I dropped one of those in.
+The other thing that I ripped out was the audio engine that I was using. Although I love the pugs luv beats sounds, I think they were getting in the way of me imagining anything new. "Martin Brinkmann has a really nice set of instruments":http://www.martin-brinkmann.de/pd-patches.html up on his website, so I dropped one of those in.
 
 Bad Hotel is basically a tree based system, so I am just traversing the nodes out to the leaves and then looping back to the root. This was the first thing that I sonified.
 
-<iframe width="500" height="390" src="http://www.youtube.com/embed/AYwJNf7gAzk" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="390" src="http://www.youtube.com/embed/AYwJNf7gAzk" frameborder="0"></iframe>
 
 I then added in enemies, to add some entropy to the song making. These enemies are dirt stupid, they just go straight for the root node.
 
-<iframe width="500" height="390" src="http://www.youtube.com/embed/JLdjFHUkswU" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="390" src="http://www.youtube.com/embed/JLdjFHUkswU" frameborder="0"></iframe>
 
 There is nothing in the game itself to keep me from going on forever. However, I am setting certain rules for myself, just to make the song more song like. I think that these rules could be written into game systems eventually. They could take the form of either more health on the individual hotel elements, or a certain amount of cash flow that you need to manage as the game goes on. In addition, some of the enemies could aim for the leaf nodes instead of the root node, and this would guarantee that the song would be pruned back, rather than totally falling apart at certain points.
 

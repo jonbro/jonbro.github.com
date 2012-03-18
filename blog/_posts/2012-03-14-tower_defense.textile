@@ -8,7 +8,7 @@ I have been through a number of prototypes for the follow up to pugs luv beats, 
 
 I am going to do this prototype more out in the open than the one for pugs luv beats, at least until someone tells me to stop. Hopefully it will give people an idea of how we work, as well as give me a way to get feedback from a larger group. I will be updating this post as often as I can with new stuff.
 
-## Notes 14-3
+h2. Notes 14-3
 
 Bloons tower defense 3 does not have any health bar style readouts on the state of the enemies. It displays the states of the enemies as distinct graphics. On the first 20 levels, I only saw 6 states, four of which mapped directly to health states, and two of which mapped to special states. One of these was an enemy that contained multiple enemies. The other one was an enemy that could only be pushed into a killable mode through a special attack type.
 
@@ -16,13 +16,13 @@ Revenge of the titans survival mode only had 6 tower types. On further review, t
 
 The prototype got this far today:
 
-![Prototype 1](http://yfrog.com/g0votbp:iphone)
+!http://yfrog.com/g0votbp:iphone!
 
-## Notes 16-3
+h2. Notes 16-3
 
 I started the prototype at this point today:
 
-![Prototype 2](http://yfrog.com/klj3ilp:iphone)
+!http://yfrog.com/klj3ilp:iphone!
 
 I added the enemies back in, and corresponding lose states. The enemies are a bit dumb right now, they just spawn a certain distance at a random angle from the players base, and move towards it. I think that at some point they should probably move towards towers that are attacking them, and try to take out the players towers. The enemies also drop money that you can use to build new towers, or upgrade your existing towers. I haven't played it to an endgame yet because of some bugs, but that is my first plan of the day.
 
@@ -34,7 +34,7 @@ I am currently using just blinking graphics to signify audio, but I noticed a fe
 
 Other than those two big issues, I want to add context sensitive towers, so that if you build a tower close to an on screen resource, then it harvests that resource. That may be adding too much complexity, but the only way to find out is to add it unfortunately.
 
-## Notes 17-3
+h2. Notes 17-3
 
 I added the wave on / wave off mechanics that are present in so many tower defense games. The reason I added that was because the games were going by way too fast. Now that the pace of the game is slowed down, you can start to notice some of the issues. I have also added actual audio, and that is becoming apparent that the way the towers charge up does not make for quite so interesting audio. I have two ideas for how to fix these issues.
 
@@ -43,5 +43,3 @@ I added the wave on / wave off mechanics that are present in so many tower defen
 The first one is to cut out the main avatar. That fixes two problems, one that there are control issues that I have not faced yet, and a simple place towers directly is something that I can handle much more easily. The second is that I may be ignoring what is fun about tower defense, and making a different kind of game. Tower defense is at its core a lightweight management sim. I think what I am making is more about avoidance. I think that by focusing in on just one type of fun, rather than trying to have two types of fun simultaneously, I will be able to make something better.
 
 As for the audio component. I like the towers being trigged by the enemies, it adds some computed variety to the sounds that they produce. I don't like the fact that the sound outside of that is such a droning rhythm. One of the nice things about offline sequencing is that you can make really complex rhythms really easily. With this game, it seems that you are forced into making really simplistic sounds for the gameplay to work.
-
-Back to the drawing board I think. I have two ideas for how to take this.
