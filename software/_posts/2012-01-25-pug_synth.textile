@@ -1,0 +1,10 @@
+---
+layout: post
+title: Pug Synth
+---
+
+!https://dl.dropbox.com/u/43672/blog_static/software/images/pug_synth.png(pug synth)!
+
+We took one of the things that people liked most from pugs luv beats, and spun it out into its own app. This was a pretty quick and fun project. It is a bit like a more whimsical version of "bebot":http://normalware.com/, an app that we all really like.
+
+"Pugs Synth on itunes store":http://www.itunes.com/apps/pugsynth/

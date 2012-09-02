@@ -1,0 +1,10 @@
+---
+layout: post
+title: Bad Hotel
+---
+
+!https://dl.dropbox.com/u/43672/blog_static/software/images/bad_hotel_iphone.jpg(bad hotel)!
+
+The next big luckyframe project, bad hotel is a music tower defense game. It is based on the prototype that is lower down this same page, but extended out into a full game.
+
+"Bad Hotel Website":http://luckyframe.co.uk/badhotel
