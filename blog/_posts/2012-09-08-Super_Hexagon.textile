@@ -1,0 +1,15 @@
+---
+layout: post
+title: Super Hexagon
+comments: true
+---
+
+"Super Hexagon":http://superhexagon.com just came out for iOS on thursday, and I have been playing it a bunch. I really like this game, it fits into the way that I play iphone games quite nicely.
+
+There are a bunch of specific things that I am enjoying about Super Hexagon. There is a major design change from the flash version in that you are no longer hit by the sides of walls, only incoming walls. This allows for tighter slalom style sections. It also encourages oversteering in some sections, which then makes you lose at yet other sections.
+
+One of the overall winning strategies seems to be taking in the whole screen at once, looking far in advance for upcoming holes. This would be totally easy if this was a standard racing game, where you had a good idea of the position of your car based on dead reckoning. Here though, you need to contend with the constantly spinning camera, and remember your past position based on that. The changing number of walls seems to effect this the most because it pushes the potential openings further off the screen. There may be something else going on there with the speed of the advancing walls changing per section too, but I am not sure what it is.
+
+The fixed sets of patterns is a really nice choice as well, it makes the game simultaneously endless, and a set of learnable elements. There are some that I struggle with, like the offset by one fast pulsing hexagons in the hexagoner stage, but I think with practice I can over come them. That is really nice to have the feeling of practice in what is an endless twitch game.
+
+And speaking of twitch, I like that the hexagon stage isn't really about twitch at all until you creep up on 60 seconds. Maybe it is the hour or so that I have played of it, but hexagon is almost relaxing now. I am glad that Terry left in this slow section.
