@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Super Hexagon
-comments: true
 ---
 
 "Super Hexagon":http://superhexagon.com just came out for iOS on thursday, and I have been playing it a bunch. I really like this game, it fits into the way that I play iphone games quite nicely.
