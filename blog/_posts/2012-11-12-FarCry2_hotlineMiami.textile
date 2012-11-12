@@ -1,0 +1,12 @@
+---
+layout: post
+title: Far Cry 2 and Hotline Miami
+---
+
+I have been playing a bunch of Far Cry 2 and Hotline Miami recently. They are both really nice examples of improvisational play, but the details in each game create for wildly different experiences.
+
+Each game has a similar start state, a planning phase where you attempt to work out your path through a problem. In Far Cry 2 the problems generally amount to figuring out where the enemies are in the check point that you are working your way through. Hotline Miami blocks the information off from you a little bit. In blocking off the information, it requires you to repeatedly play through the same situation, planning a little bit further into the problem each time. This is almost an improvisational approach to creating a composition, which is the piece that you play once you have gathered all the information about the level, and play through it to the end. This play system is supported by one hit kills, and an extremely fast restart system.
+
+Far Cry 2 on the other hand has a bit longer load time, and you are required to walk back to the location that you were just working through. This, coupled with the amount of damage that you can soak up, makes it less likely that you will give up on a situation, and continue to improvise through to the end. The fact that you don't have perfect information about the problem at any point during solution means that there is a bunch more force towards dealing with the unfolding issues.
+
+It is interesting how wildly different the pace of a game can be controlled by these types of tweaks to the underlying mechanics, and framing of the games.
