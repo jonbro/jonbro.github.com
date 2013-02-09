@@ -1,0 +1,10 @@
+---
+layout: post
+title: Wave Trip
+---
+
+!https://dl.dropbox.com/u/43672/blog_static/software/wave_trip.png(wave trip)!
+
+The final game in the set of music creation games that we did at Lucky Frame. I am sure there will be more, the next thing we do will not be as clearly connected. This game is a cross between a cave flyer and sound shapes. I am really proud of the game design decisions that we made on this one, I think it is both accessible and deep.
+
+"Wave Trip Website":http://www.luckyframe.co.uk/wavetrip/
