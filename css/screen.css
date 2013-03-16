@@ -103,7 +103,8 @@ ol#comments li p {
 }
 p, li, .feedback {
 	font: 11px Verdana, Arial, Helvetica, sans-serif;
-	
+	line-height: 22px;
+
 }
 
 /* classes used by the_meta() */
@@ -176,6 +177,7 @@ ul.post-meta span.post-meta-key {
 }
 .events .storytitle, .events .storycontent p{
 	font-size: 10px;
+	line-height: 15px;
 }
 .events .storytitle .location{
 	color: #808080;
