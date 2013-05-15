@@ -6,6 +6,6 @@ title: Avoid
 !http://dl.dropbox.com/u/43672/blog_static/software/images/avoidance.jpg(avoidance)!
 
 My first game! Press left and right to swing from the different connection points. I am totally into the menu screens, the randomness of the game kinda bites it though.
-
-"Avoid osx":http://dl.dropbox.com/u/43672/blog_static/software/avoid_mac.zip
+"Avoid web":https://dl.dropboxusercontent.com/u/43672/avoid/index.html
+"Avoid osx (PowerPC)":http://dl.dropbox.com/u/43672/blog_static/software/avoid_mac.zip
 "Avoid windows":http://dl.dropbox.com/u/43672/blog_static/software/avoid_windows.zip
