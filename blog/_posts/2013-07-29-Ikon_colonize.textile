@@ -1,0 +1,16 @@
+---
+layout: post
+title: Ikon Colonize
+---
+
+"Just posted a new version of the game on kongregate":http://www.kongregate.com/games/jonbro/ikon-colonize with a few fixes.
+
+My desire to make a dotalike for this competition rose out of the fact that I really enjoy dota but am unable to get my coworkers to play it with me. I wanted to make something that is similar to dota that matches the sort of games that we play and enjoy at the office, in the hope that would get them interested in the real thing. I was also interested in exploring what makes dota fun for me, and if I can find that fun thing in a week.
+
+"I have written previously about what I liked about dota":http://jonbro.tk/blog/2013/03/03/DOTA2.html, and strangely enough, I don’t think I included much of those things in the game that I made this week. What I did manage to include was a somewhat grindy game that tips over into an endstate with a surprising speed, and has some of the micro work that goes into a dota match. There isn’t as much teamwork in this game, because it turns out that organizing alliances is something that doesn’t just happen in a quick match. I suspect that alliances are a thing that can happen when you actually have time to think out the whole issue.
+
+This is also the second multiplayer game that I have made in a row, and I think I am starting to close in on what would make a successful one. The first game we just finished is local only, but only requires two players to play. I solved the local only with this one, but added a new wrinkle, which is that you need exactly 3 players. It is a bit frustrating that social pressures force you towards certain types of games, but I suppose I could work on making this something that would support 2-x number of players. Potentially by adding teams, or by having more players at once.
+
+The other direction that I could build this game in is to add more abilities for each player. Making the dash a triggerable state with a cooldown made it feel a ton more like dota, and I think that adding a set of ultimates for each player would add a really nice last ditch phase to the game where everyone is triggering ultimates, or saving them to exactly the right time. I am not sure if adding the tech tree / store system to this game would be a good idea or not, but having different builds for the players is something that would be interesting. Basically adding complexity to create depth.
+
+I hope you manage to find two other players and get a game of it in.
