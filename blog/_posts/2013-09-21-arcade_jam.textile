@@ -1,0 +1,24 @@
+---
+layout: post
+title: Arcade Jam
+---
+
+This last weekend I participated in an arcade jam sponsored by the "VMGS":http://www.vmgs.com/ and organized by "David Hayward":https://twitter.com/nachimir. The intent of the arcade jam was to build a number of custom gaming boxes that would be shown in a popup arcade space. Some of the games ended up being custom built, and some of them ended up being custom controllers for existing games.
+
+<iframe width="500" height="360" src="//www.youtube.com/embed/OGRl7zluqDM?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+
+The one that "got the most press":http://kotaku.com/a-piano-that-plays-doom-1338284919 was Doom Piano, a piano modded to play doom, along with a custom mod of the doom source code by "Sos Sosowski":http://sos.gd/. The mod enabled the piano's keys to be held longer in the game and to add permadeath to make it better for showing in a space. A pretty impressive, and altogether massive arcade machine.
+
+The projects that I worked on more closely were the RGBriefcase, an audio only puzzle game built into an old suitcase, and GTA HI FIVE, a video game to be played with two gametraks. 
+
+<iframe class="vine-embed" src="https://vine.co/v/hnQOWur6u7F/embed/simple" width="480" height="480" frameborder="0"></iframe><script async src="//platform.vine.co/static/scripts/embed.js" charset="utf-8"></script>
+
+The RGBriefcase was the project that had the most people touching it, David Hayward built the physical bits of it, "Joon":http://joon.be/ prototyped the first levels, I coded those first levels and wired the case, "George":http://nottheinternet.com/ coded a two more levels, and came up with the idea for the final puzzle. The two interesting bits were making a puzzle game, which I have never done before, and making an audio only, screenless game which is something that I am surprised I have never done before. I learned a bunch about doing audio on arduino as well, which has got me kicking around a few future ideas (anyone want a box that only chops up amen breaks? I want to make it).
+
+<iframe class="vine-embed" src="https://vine.co/v/hvBBOZIdgdb/embed/simple" width="480" height="480" frameborder="0"></iframe><script async src="//platform.vine.co/static/scripts/embed.js" charset="utf-8"></script>
+
+The GTA HI FIVE was also pretty great, but gripped by problems from the start. Me and Joon made this one, and restarted it about 7 times, the final restart was at 7 in the morning the day the arcade opened at 10. Unfortunately all this starting and restarting meant that some things were lost along the way, and we weren't able to polish this one perfectly. I am not sure exactly what the take away lessons from this are other than never use complicated physics when simple physics will do.
+
+Overall, the experience has got me thinking more about the context in which to place my games, and how to do the initial publicity, and the value of actually interacting with game players in person. Talking with "Simon of One Life Remains":http://www.oneliferemains.com/ in particular had me thinking more about how I want our games to exist in the world, and how to get there.
+
+Finally, I am going to be building an arcade box to play the games for the "upcoming Chain Jam":http://www.copenhagengamecollective.org/chainjam/. If you want to make a four player game, and have it played on a cool arcade machine somewhere in Scotland, then just make something. If you are in Scotland, and just want to hang out and make games for this jam, that would be amazing as well! I think I will be opening the Lucky Frame office that weekend so that people can come by, hang out, and make games.
