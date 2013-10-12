@@ -1,0 +1,23 @@
+---
+layout: post
+title: FPS Roguelikes
+---
+
+I have been thinking about this genre connection for a while, apparently way too long, because there are a bunch that are out or coming out real soon. Now, a list:
+
+"Paranautical Activity":http://codeavarice.com/ currently available
+"Rogue Shooter":http://steamcommunity.com/sharedfiles/filedetails/?id=170551729
+"Fancy Skulls":http://www.fancyskulls.com/ alpha available
+"Heavy Bullets":http://www.heavybullets.com/ pre-alpha available
+"Tower of Guns":http://www.towerofguns.com/ available
+"Eldritch":http://www.eldritchgame.com/ available
+"Discoverie":http://7dfps.com/?action=games&id=45 7dfps version, available
+"Receiver":http://www.wolfire.com/receiver available
+"Sir, You Are Being Hunted":http://www.big-robot.com/tag/sir-you-are-being-hunted/ available
+"Taquito Tower":http://www.freeindiegam.es/2013/08/taquito-tower-magdev/ available
+"Dead Squared":http://www.indiedb.com/games/dead-squared alpha available
+"Hellgate London":http://hellgate.t3fun.com/home/home.aspx available since 2007, now f2p
+"Moraff's World":http://emptysqua.re/blog/moraffs-world/ available, eye of the beholder style
+"Disco Fear":http://forums.tigsource.com/index.php?topic=33179.0 not yet available, not sure of that name.
+
+I am going to try to livestream plays through some of these. Also if you know of any others, let me know, so that I can play those as well.
