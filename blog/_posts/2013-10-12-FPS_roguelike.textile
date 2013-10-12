@@ -18,11 +18,12 @@ Now, a list:
 "Taquito Tower":http://www.freeindiegam.es/2013/08/taquito-tower-magdev/ available
 "Dead Squared":http://www.indiedb.com/games/dead-squared alpha available
 "Hellgate London":http://hellgate.t3fun.com/home/home.aspx available since 2007, now f2p
-"Moraff's World":http://emptysqua.re/blog/moraffs-world/ available, eye of the beholder style
+"Moraff's World":http://emptysqua.re/blog/moraffs-world/ available, eye of the beholder style. It seems like moraff made a number of games in this style.
 "Disco Fear":http://forums.tigsource.com/index.php?topic=33179.0 not yet available, not sure of that name.
 "Illuminascii":http://7dfps.com/?action=games&id=89 7dfps version, "ongoing development":http://depressingdrawers.tumblr.com/
 "Boarding Party":http://7dfps.com/?action=games&id=228 7dfps version
 "Delver":http://www.delvergame.com/ available
 "Death Smashers":http://7dfps.com/?action=games&id=289 7dfps version, seems to be "in onging dev":www.broforcegame.com/DeathSmashers/
+"The Arurora Wager":http://7drl.org/2013/03/17/the-aurora-wage-success/ 7dfps version
 
 I am going to try to livestream plays through some of these. I suspect that I am missing a bunch from the 7dfps this year, so will need to dig through those more. Also if you know of any others, let me know, so that I can play those as well.
