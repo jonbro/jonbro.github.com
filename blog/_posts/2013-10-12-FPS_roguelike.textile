@@ -29,5 +29,6 @@ Now, a list:
 "7DRL":http://games.nagademo.com/games/11/ 7dfps version, availble
 "procedural FPS":http://www.mapcore.org/topic/14396-procedural-fps/page-24 this project seems to have stalled
 "spire":http://hitboxteam.com/mystery-and-mastery not yet available
+"oblige":http://oblige.sourceforge.net/ random map generator, supports doom, hexen, others
 
 I am going to try to livestream plays through some of these. I suspect that I am missing a bunch from the 7dfps this year, so will need to dig through those more. Also if you know of any others, let me know, so that I can play those as well.
