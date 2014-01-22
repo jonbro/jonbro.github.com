@@ -1,0 +1,76 @@
+---
+layout: post
+title: 2013 Year in review
+---
+
+Here is a list of the things I made last year.
+
+## Wave Trip ##
+
+![wave trip](https://dl.dropboxusercontent.com/u/43672/blog_static/images/2013_waveTrip.png)
+
+The last of the channel 4 music games. I think I finally turned a corner on how to make arcade game with this one. It might be my first game with screen shake and score multipliers. Also user generated content. I think this might be the last phone / tablet exclusive game I make for a while.
+
+## Proteus Mac Port##
+
+I love this game. I am still working on the port a little bit. I encourage everyone to [play this game](http://visitproteus.com).
+
+## A daily journal for Jan & Feb ##
+
+Started out as a fun a day project, then tried to extend it to a fun a year project, but fell off after the second month. Was really enjoyable while I was doing it, but I am not sure if it helped me with my output at all, or my mental health. I should probably revisit, and keep metrics as I do it to see. I wish I had more copies of it to hand out, but xeroxing things is really expensive.
+
+## In D ##
+
+![In D](https://dl.dropboxusercontent.com/u/43672/blog_static/images/2013_in_d.png)
+
+This was a cover of *in c*, set in a dungeon. It was shown at bit of alright 2013, and I think it went over pretty ok. It is certainly the most content I have ever produced for a game in the shortest time; ~40 unique rooms in under 7 days. I should have learned a lesson from this, but I think I might have forgotten it for the whole year. I don't know if any documentation of this project exists, and I don't have a currently available version for distribution.
+
+## A small rogue & T@XI ##
+
+![T@XI](https://dl.dropboxusercontent.com/u/43672/blog_static/images/2013_taxi.png)
+
+I have now made this part of a roguelike around 10 times (including some attempts that were so unfinished that I didn't include them on this list). I am starting to learn that starting from a formalist definiton of a game and filling it out is not a way for me to finish something. I lose interest in it way too quickly. I feel kinda bad for the guy that did [a video review of T@XI](http://www.youtube.com/watch?v=F2gkLsa3fu0). 
+
+## Options ##
+
+![Options](https://dl.dropboxusercontent.com/u/43672/blog_static/images/2013_options.jpg)
+
+I made a game for [Morgan's](http://www.morgancahn.com) degree show, to be played with physical bits. I think it went alright. I am certainly learning to design for time scales. Before I made the physical version, [I made a twine version](http://www.glorioustrainwrecks.com/files/options.html) to test out all the various bits and get some copy down on the page.
+
+## Sokobomb ##
+
+![sokobomb](https://dl.dropboxusercontent.com/u/43672/blog_static/images/2013_sokobomb.png)
+
+I am not sure if there was any strong reason to make this other than the fact that I was trying to get a game done every month, and it was a funny name. If it wasn't so buggy it would be pretty fun. I think it might be inspired by [PYRO II](http://en.wikipedia.org/wiki/Pyro_2), but I can't remember if that inspiration was conscious or not. [Not alot of people have played it](http://www.kongregate.com/games/jonbro/sokobomb).
+
+## Laser Lock ##
+
+Was attempting to make a game that had some of the feeling of [O by smestorp](http://mightyvision.blogspot.co.uk/2012/10/o.html). I discussed some solutions to the issues with this game with him, but was never really drawn back to it, potentially due to the fact that it was tough to test on my own. [There are a few more words about it here](http://jonbro.tk/blog/2013/07/02/Laser_Lock.html). It looks super cool, but I don't have a screen shot of it.
+
+## Gentlemen ##
+
+![gentlemen](https://dl.dropboxusercontent.com/u/43672/blog_static/images/2013_gentlemen.jpg)
+
+This game just kept on going. It should have been obvious during the development that this was a pc first game, due to the fact that we kept testing it with xbox controllers. We released first on android and ipad, and then ported to ouya and pc. I think it is pretty good, but I also think that it is lacking a bit in depth of its mechanics. I wish I had put in a single player mode more than anything else, because it could have helped me tune the high level input and find new ways to explore those systems. I also wish that I had played more streetfighter before making this game, so I could have included some of the systems from that. The rolling design phase on this game was really fun though, I got to keep tuning stuff for months, and it ended up at a far better place than it started.
+
+## Arcade Jam ##
+
+An amazing experience, and something that drove the Roflpillar project, and also somewhat drove the creation of [TBGV](http://luckyframe.co.uk/tacos/). I think the [post that I did about](http://jonbro.tk/blog/2013/09/21/arcade_jam.html) it is probably more worth reading.
+
+## High Rise Hovercraft ##
+
+![hoverbounce](https://dl.dropboxusercontent.com/u/43672/blog_static/images/2013_hoverbounce.png)
+
+Made for the [chainjam](http://chainjam.com/), a collection of 4 player party games. I also built a cabinet to play the games on, which ended up being reused for showing gentlemen. The core thing that I was exploring here was blocking. It is pretty fun to play, but doesn't have a bunch of depth. I am pretty sure it is pretty similar to a minigame from a ps2 party game collection.
+
+## IKON_COLONIZE ##
+
+![ikon_colonize](https://dl.dropboxusercontent.com/u/43672/blog_static/images/2013_games_ikon_colonize_small.png)
+
+My first experience in making online multiplayer. Attempted to make a three player version of dota. There were a bunch of learning experiences here. I wish I had prototyped this as a card game with simultaneous moves, and I think I might go back to that. [You can play it, if you can find 2 other people](http://jonbro.tk/blog/2013/07/29/Ikon_colonize.html).
+
+## Roflpillar ##
+
+<iframe src="http://www.flickr.com/photos/115045454@N04/12078535634/in/set-72157640026996483/player/" width="500" height="333" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+Probably the best thing I made last year, and you will probably never get a chance to play it. Really incredibly proud of this thing.
