@@ -8,6 +8,7 @@ A first person permadeath arcade shooter with fog flasks.
 ![zero zero hero](https://dl.dropboxusercontent.com/u/43672/blog_static/images/zerozero_hero_500.png)
 
 [Unity Webplayer](jonbro.itch.io/zero-zero-projector-webplayer)
+
 [Win / Mac / Linux Downloads](jonbro.itch.io/zero-zero-projector)
 
 I started out 7drl this year with high hopes. Just on the tail of nightmare cooperative, I was feeling pretty confident that I could get to the end of this jam without making a pile of garbage (like I did last year), or just completely fail to make anything (like I did the prior year).
