@@ -37,6 +37,12 @@ This was the biggest thing I did all year, and it took me about 9 months from be
 
 [Get Nightmare Cooperative Here](http://luckyframe.co.uk/nightmare)
 
+## A Bunch of T-Shirts ##
+
+![CoolShirts](https://dl.dropboxusercontent.com/u/43672/blog_static/images/coolshirts.png)
+
+Twitter was impossible to be on, so I switched my twitter over to a t-shirt advertising business. None of them were turned into physical products, but it was fun to make a shirt a day.
+
 ## No More Lucky Frame ##
 
 Was such an amazing ride, and I think that I am totally on a different path with my life now that I have had that experience. Moving on has been tough, but I am excited to see what the future holds.
