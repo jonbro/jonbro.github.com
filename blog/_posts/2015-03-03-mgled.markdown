@@ -14,9 +14,11 @@ You can check out the source code for Kenta Cho's games, and dump them into the 
 I have also made a few games with it that you can look at the source code for. I have used the single letter variable names that the engine encourages, so I don't promise that it is easy to read.
 
 ![cant stop](https://dl.dropboxusercontent.com/u/43672/blog_static/images/cantstop.gif)
+
 [cant stop](http://mgled.neocities.org/play.html?p=5bf3598ed601df2a2a54)
 
 ![snuggle ship](https://dl.dropboxusercontent.com/u/43672/blog_static/images/snuggleship.gif)
+
 [snuggle ship](http://mgled.neocities.org/play.html?p=d1d2de50a687da8df8c4)
 
 If you want to dive in, the best place to start is the [github documentation for the library](https://github.com/abagames/mgl.coffee). I will be happy to keep updating this tool if people are happy to use it!
