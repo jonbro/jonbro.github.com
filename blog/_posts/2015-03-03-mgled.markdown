@@ -1,0 +1,22 @@
+---
+layout: post
+title: MGLed
+---
+
+I made a small thing called [MGLed](http://mgled.neocities.org). It is a web based editor for making games with [MGL.coffee](https://github.com/abagames/mgl.coffee), a really cool library for making tiny action games. I borrowed heavily from increpare's [puzzle script](http://puzzlescript.net), which was an invaluable resource when figuring out how to make a web based editor.
+
+I am releasing this in a partially finished state to see if it is something that people would like to play with further, and to potentially gain (or lose) energy from seeing if people are interested in it.
+
+I was inspired to start working on this because [Kenta Cho made 50 games last year](http://www.asahi-net.or.jp/~cs8k-cyu/blog/2014/12/12/games-in-2014/) using this library. I gave the library a shot, and while it is super super strange, it is also blazingly fast to make stuff with once you learn your way around it. Among its strange and exciting features are: RANDOM MUSIC! SINGLE LETTER FUNCTION NAMES! ONLY NON-ROTATED SQUARES FOR GRAPHICS!
+
+You can check out the source code for Kenta Cho's games, and dump them into the editor and hack around with them.
+
+I have also made a few games with it that you can look at the source code for. I have used the single letter variable names that the engine encourages, so I don't promise that it is easy to read.
+
+[cant stop](http://mgled.neocities.org/play.html?p=5bf3598ed601df2a2a54)
+![cant stop](https://dl.dropboxusercontent.com/u/43672/blog_static/images/cantstop.gif)
+
+[snuggle ship](http://mgled.neocities.org/play.html?p=d1d2de50a687da8df8c4)
+![snuggle ship](https://dl.dropboxusercontent.com/u/43672/blog_static/images/snuggleship.gif)
+
+If you want to dive in, the best place to start is the [github documentation for the library](https://github.com/abagames/mgl.coffee). I will be happy to keep updating this tool if people are happy to use it!
