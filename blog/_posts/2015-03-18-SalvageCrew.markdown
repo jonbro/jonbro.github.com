@@ -16,3 +16,4 @@ Some other games that I really enjoyed from this years 7drl:
 [SEVEN CELL](http://www.ianiselsewhere.com/7DRL.swf) - Ian made this in about 6 hours, and it is amazing. Such a perfect random puzzler
 [Dead Blinger](http://7drl.org/2015/03/14/dead-blinger/) - a great 1HP roguelike that has the classic elements as well. Read down for more about why ascii is great.
 [Dumuzid](http://humbit.com/dumuzid/) - the design in this is so wobbly, but I love it.
+[Garbage In / Garbage Out](http://jonathanwhiting.com/games/garbagein/) - a cross between roborally and glitch tank. Awesome.
