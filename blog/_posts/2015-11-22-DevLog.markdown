@@ -1,0 +1,28 @@
+---
+layout: post
+title: Weekly Dev Log 11/22/15
+---
+
+23:58:39
+
+Normally I leave off the "here is what I did recently post" until the end of the year. I am feeling the need to get some of that love early this year, so I am going to try doing a weekly update. Hopefully this will keep me focused and dedicated to the little projects that I am plugging on.
+
+I am going to redact some of the details of contract and other necessary redactable work.
+
+![log](https://dl.dropboxusercontent.com/u/43672/blog_static/images/weekly_dev_0_time.png)
+
+![screen2](https://dl.dropboxusercontent.com/u/43672/blog_static/images/doom_ed1.png)
+
+I have been working on this doom sector style level editor that lives inside of unity on and off for a few months now. It isn't to the point where it is really fast or fun to use yet, but I am closing in on bugs at the very least. This week I worked on some really necessary features, including moving lines and verts around. The secondary thing that I am working on with this is a [http://forum.makega.me/t/covers-based-on-a-screenshot/1318](cover game for this forum thread) that everyone except me has forgotten about.
+
+*doom ed* - 11:46:33
+bugs - 2:49:32
+building level - 1:53:44
+performance - 4:31:18
+moving lines - 1:20:24
+moving verts - 0:26:10
+undo 0:45:00
+
+*Mostly Circle contract work* - 9:19:00
+
+*Community work* - 2:41:25
