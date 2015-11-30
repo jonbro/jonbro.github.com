@@ -1,0 +1,25 @@
+---
+layout: post
+title: Weekly Dev Log 11/30/15
+---
+
+12:28:08
+
+Slightly shorter work this week due to family and holidays. A bunch of the untracked time this week was dedicated to playing board games and cleaning out basements.
+
+![log](https://dl.dropboxusercontent.com/u/43672/blog_static/images/weekly_dev_1_time.png)
+
+<iframe src="https://vine.co/v/iz6bzDUJ3PF/embed/simple" width="500" height="500" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
+
+The time that I did spend on personal projects this week was largely dedicated to doing an edition of drawings. I had built this lego plotter a few weeks ago, but never got around to writing the code to run it. This week I did, and got some neat L-System drawings out of it. It was pretty fun to not know what kind of drawing you were going to get until the pen actually dumped it out.
+
+![log](https://dl.dropboxusercontent.com/u/43672/blog_static/images/l_system_drawings.jpg)
+
+Speaking of which, 3 out of the 6 drawings in this edition are unspoken for. Let me know if you want one, and we can work it out.
+
+I got one huge bug fixed on the doom editor this week. Then I lost all ability to work on it.
+
+*doom ed*	2:25:12	
+*Mostly Circle contract work*	0:49:17	
+*plotter*	6:09:19	
+*community work*	3:04:20	
