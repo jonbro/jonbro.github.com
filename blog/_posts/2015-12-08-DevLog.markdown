@@ -1,0 +1,22 @@
+---
+layout: post
+title: Weekly Dev Log 12/8/15
+---
+
+14:59:05
+
+Primary time this week was catching up with the books. I took on Morgan's books too, which are way more complicated than mine, since she has inventory and vendors and about 15 different ways to process payments.
+
+![log](https://dl.dropboxusercontent.com/u/43672/blog_static/images/weekly_dev_2_time.png)
+
+I got a major bug fixed with the doom editor, and then immediately found a new bug. Part of the fun of this project is that I am doing it with test driven develoment, so when I break something new I get about a million red lights. I hope I get the core sector finding code sorted soon though, because it is frustrating to just be mucking around with that endlessly.
+
+![doom ed bug notes](https://dl.dropboxusercontent.com/u/43672/blog_static/images/doom_ed_bug_notes.jpg)
+
+Other time this week was ressurecting some older projects that I spent time on earlier this year and were suffering from code rot. The iPad game editor is a fun one, and the last time I was working on it I had stripped it back to minimum viable product in notes, now I just need to go through and actually build the thing.
+
+* *accounting*	8:51:24	
+* *doom ed*	3:30:52	
+* *ipad game editor*	0:52:02	
+* *little iPhone Tracker*	0:50:38	
+* *plotter*	0:54:09	
