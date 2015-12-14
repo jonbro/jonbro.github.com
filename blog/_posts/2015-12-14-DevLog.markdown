@@ -1,0 +1,27 @@
+---
+layout: post
+title: Weekly Dev Log 12/14/15
+---
+
+24:56:45
+
+One of the projects that I resurrected last week was a iOS based game making tool that I have been kicking around on and off for probably 6 years or so. The last incarnation of it was a Wario Ware DIY alike. Unfortunately, I got overwhelmed by the scope of the project, and ended up dropping it earlier this year. Before I dropped it, I wrote a new scope for it that felt more manageable. This week I implemented most of the things in that scope. Perfect.
+
+![log](https://dl.dropboxusercontent.com/u/43672/blog_static/images/weekly_dev_3_time.png)
+
+The new scope for this game is an iOS based choose your own adventure system. You can draw little pictures for each scene, and link the scenes together through text. When you are done, you can upload it to the web, and have people share in it. I did a play test with Morgan on Friday, and [she made this cool little game](http://vnsys.neocities.org/?p=7666c1450d532e4e52cd). Weird and experimental, and a cool first release for this tool.
+
+![game making tool screen shot](https://dl.dropboxusercontent.com/u/43672/blog_static/images/gamemaking_tool.jpg)
+
+I posted this screen shot from the tool, which was pretty reasonably ignored until I explained around what was going on. So that tells me that the tool itself needs to look a bit shinier. Not a huge deal, just something that I don't want to do until all the features are squared away.
+
+![game making tool screen shot](https://dl.dropboxusercontent.com/u/43672/blog_static/images/LD34.jpg)
+
+The last big chunk of work this week was ludum dare. I tried to make a board game that incorporated both of the themes, gardening and two buttons. Predictably I failed to completed it. I managed to get a few iterations in, and it was starting to feel like something though, so potentially I will return to the themes of it at some point.
+
+I also mailed out the drawings from the plotter. Those that asked for them should be getting should be getting them shortly.
+
+* *accounting*	1:16:37
+* *ipad game editor*	13:31:29
+* *music*	1:53:03
+* *Ludum Dare*	8:15:36
