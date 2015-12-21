@@ -1,0 +1,24 @@
+---
+layout: post
+title: Weekly Dev Log 12/20/15
+---
+
+22:27:29
+
+Another week, another project.
+
+![log](https://dl.dropboxusercontent.com/u/43672/blog_static/images/weekly_dev_4_time.png)
+
+I spent a little time tackling bugs from the doom editor and the iOS CYOA editor this week. The doom editor got a major fix committed (3 concentric sectors would cause all sorts of headaches), and I started work on better face picking / texture application.
+
+![Action ed lua](https://dl.dropboxusercontent.com/u/43672/blog_static/images/actionEdLua.png)
+
+[Around march or april of this year](http://jonbro.tk/blog/2015/03/03/mgled.html), I had released a game making tool that never got any traction with anyone. I think a big part of that was I wasn't using it myself, but it was also deeply strange for a number of reasons. Most of them had to do with the underlying complexity of the sdk. I had started trying to clean it up, but ended up realizing that it needed a full rewrite. That was too much to handle, so I dropped the project.
+
+This week I came back to it, and rewrote nearly the entire sdk in lua. It took about a day. I spent another day banging my head against some strange bugs in lua.vm.js. This isn't ready for release yet, but it is close. I am hoping that more people will be excited about it, since I smoothed out a ton of the issues.
+
+* *accounting*	0:46:03
+* *doom editor*	6:05:41
+* *ipad game editor*	0:39:36
+* *lua action game editor*	12:41:56
+* *mostly circle contract work*	2:14:13
