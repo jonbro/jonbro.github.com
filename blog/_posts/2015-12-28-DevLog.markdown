@@ -1,0 +1,21 @@
+---
+layout: post
+title: Weekly Dev Log 12/28/15
+---
+
+7:58:35
+
+A much shorter week, due to holidays.
+
+![log](https://dl.dropboxusercontent.com/u/43672/blog_static/images/weekly_dev_5_time.png)
+
+Started porting the web based action editor that I was working on to emscripten. This was pretty necessary due to slowdown in the lua.vm.js bridge functions. I am not doing much beyond writing wrappers for some functions right now.
+
+Spent a little bit of time on the doom editor and iPad CYOA thing as well, but nothing significant. I don't really know where either of those are going. In particular, the CYOA thing feels too slight to be worth finishing. Maybe I should send it out to people and see if anyone likes it or not.
+
+Coming later this week: my yearly roundup of what I did. I am somewhat looking forward to that.
+
+* *doom editor*	0:31:11
+* *ipad game editor*	1:35:27
+* *lua action game editor*	4:56:59
+* *mostly circle contract work*	0:54:58
