@@ -1,0 +1,22 @@
+---
+layout: post
+title: Weekly Dev Log 1/5/15
+---
+
+21:39:06
+
+![log](https://dl.dropboxusercontent.com/u/43672/blog_static/images/weekly_dev_6_time.png)
+
+The bulk of this week was spent working on the action game editor thing. I started making a game in it, and ported one of my old games to it. I had a vague plan about making a game a day with it, but I just don't think I have the energy for that. One of the issues with it is that I can't see people being excited about screenshots of games made with it. I hope to have a plan to deal with that this week.
+
+<iframe src="https://vine.co/v/ibITvXUn0J1/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
+
+One possible expression that I was thinking about for the sector editor was to make instanced dungeons that would exist in a random gen landscape. I started messing around with rendering tech for the landscape late this week. This is a pretty neat fully gpu rendering thing for heightmaps.
+
+I am starting to look for other ways to make money, because I am getting really worried that I won't be able to eat from this stuff.
+
+* *action edit*	10:21:12
+* *dev log*	0:38:46
+* *accounting*	2:11:53
+* *terrain gen*	5:36:17
+* *other money* 0:04:56
