@@ -1,0 +1,24 @@
+---
+layout: post
+title: Weekly Dev Log 1/13/15
+---
+
+23:55:34
+
+![log](https://dl.dropboxusercontent.com/u/43672/blog_static/images/weekly_dev_7_time.png)
+
+Starting to feel really focused here, to the point where I will probably just have just two or three line items listed on future dev logs. I started the week with a project management meeting where I decided it is time to release something and charge for it. Of all the different projects I have been working on, the one that seems most likely to be completed in a reasonable timeframe is the action editor.
+
+![game one](https://dl.dropboxusercontent.com/u/43672/mcfp/skategarden.gif)
+
+So the plan is to make a bunch of micro games, things the scale of flappy bird, wrap them all up in a frame story and sell the whole thing on iOS. I got two games done enough for user testing last week. I also started porting the whole thing to iOS and replacing the sfxr based sound system with something that I enjoy.
+
+![game two](https://dl.dropboxusercontent.com/u/43672/mcfp/robtek.gif)
+
+Unsurprisingly enough, porting to iOS means that I have to rethink all the controls. I think from here on out, everything is going to be iOS first to make sure the controls are fine. I am going to try to work in such a way that porting back to emscripten is easy enough when the time comes. Hopefully will have something posted for people with iOS to play on their devices by the end of the week.
+
+* *action edit*	17:25:59
+* *dev log + project management*	1:38:34
+* *accounting*	0:13:21
+* *terrain gen*	1:30:00
+* *contract work* 3:06:01
