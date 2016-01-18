@@ -1,0 +1,28 @@
+---
+layout: post
+title: Weekly Dev Log 1/18/15
+---
+
+35:08:25
+
+![log](https://dl.dropboxusercontent.com/u/43672/blog_static/images/weekly_dev_8_time.png)
+
+This week has been spent largely working on the game engine.
+
+I am not sure that was a good idea.
+
+The week started off really great, with some playtesting. The existing games are small enough that I can make really fast changes based on direct feedback, so sitting down with someone and testing the game with them is just a matter of them saying "hey can you try this thing", and 15 seconds later, I have a new build that implements that feature. It is great. I even put in a web server so when I have both my device and my dev box on the same network I don't need to recompile.
+
+Then I had a vision. A grand meta game, where you are walking around this shitty arcade and playing all these different games, and chatting with the owner. There would be a story line to drive you through the different games. And maybe you could go outside the arcade and to the shop down the street, and buy different outfits for your character.
+
+![super caesars palace](https://dl.dropboxusercontent.com/u/43672/blog_static/images/Super_Caesars_Palace_-_SNES_-_Gameplay_2.png)
+
+So I started building a new game engine. I don't really want to do this in unity, I want to keep my games in fast iteration land in lua. Early on at lucky frame, I had my own engine, and it was great, but everything was deeply nested classes, and hard to debug because everything lived in lua land without typechecks. So this week I started building a Entity Component System based engine. And I am doing it in C because I am stubborn and want to learn c better. As far as I can tell, most people don't make that mistake.
+
+![Arcade Machine](https://dl.dropboxusercontent.com/u/43672/blog_static/images/arcade_machine_ECS.png)
+
+So after a weeks work, I have an image on screen. You can't see, but it is color cycling thanks to the shader. Great. You can't play the two games anymore, so technically, I have taken a step back. I hope I can accelerate with this framework and get it out of the way this week so I can start working on the game again. But really, who knows.
+
+* *action edit*	33:10:11
+* *dev log + project management*	0:17:22
+* *accounting*	1:40:52
