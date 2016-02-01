@@ -1,0 +1,40 @@
+---
+layout: post
+title: Weekly Dev Log 2/1/16
+---
+
+50:19:20
+
+![log](https://dl.dropboxusercontent.com/u/43672/blog_static/images/weekly_dev_10_time.png)
+
+Another 50 hour week in the can. These are totally exhausting, and I need to stop doing them.
+
+I start and stop my timer whenever I stand up from my desk, so 50 hours translates to something much higher. Probably 70 or so?
+
+The fun pak poked along this week. I got builds out to testers early in the week, and got some great feedback. I also made a new game and started integrating my synth a bit better. Not sure if I am actually going to go with my synth in the end, it all really depends on what the arc of the project is. I did discover that my synth is kinda a processor hog, but hopefully I can work out some solutions to that.
+
+It seems like new games in the current style take about 4-8 hours of development time, but this might change with a newer better art style if I ever get around to that.
+
+![log](https://dl.dropboxusercontent.com/u/43672/blog_static/images/arcade_overworld.png)
+
+I also started in on the overworld for the game. I am pretty happy with this art, and hope that I am able to figure out a way to build out a whole world that looks like this, populated with these little frumpy characters.
+
+![log](https://dl.dropboxusercontent.com/u/43672/blog_static/images/ceremonyforseeing.png)
+
+Then the bulk of the week was global game jam. [I am really happy with what we produced for it.](http://jonbro.itch.io/ceremonyforseeing) Give it a download and a play if you have 10-15 minutes to spare. It was so nice to work with an artist and have something that looks amazing at the end of the jam. Also working with a writer and voice over person was excellent, and she did a great job with our super vague input.
+
+I was really happy with the new unity tools for audio, if people haven't checked them out, they really should. It makes it easy to do complicated sets of ducked audio and soundtracks and such. I am sure I didn't do a perfect job on the mixing, but hopefully good enough.
+
+The inscriber ritual is the one bit of the game that I am sure I am going to revisit, and maybe release as a little iOS separate toy. We will see if I have time or not.
+
+* *global game jam* 25:23:00
+* *fun pak*	19:50:19
+	* checking build on iPhone 4	0:38:34	
+	* content - arcade games	4:12:11	
+	* dynamic sound library	4:09:25	
+	* getting the web server running	1:13:00	
+	* overworld	6:10:48	
+	* setting up testflight	3:07:36	
+	* texture packer	0:18:45	
+* *dev log + project management*	0:24:24
+* *contract work*	2:09:40
