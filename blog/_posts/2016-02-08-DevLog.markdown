@@ -1,0 +1,20 @@
+---
+layout: post
+title: Weekly Dev Log 2/8/16
+---
+
+Changing formats this week, because hours wise, it was primarily client work.
+
+![spriteeditor](https://dl.dropboxusercontent.com/u/43672/blog_static/images/sprite_editor.png)
+
+The two major things I did on the game this week were tooling things. The first one was a clone of the pico-8 sprite editor. I don't know if I will end up using any thing created with this, but the graphics need to go, and having a tool to make the new graphics felt like a good start. Then I didn't end up using this tool for any game related stuff, I just jumped to the next thing.
+
+<iframe src="https://vine.co/v/iJYBU5eH92l/embed/simple" width="480" height="480" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
+
+I built a opl style synth, and then decided to make a quick tracker for it. This whole process took about 9 hours.
+
+![opl tracker](https://dl.dropboxusercontent.com/u/43672/blog_static/images/opl_tracker.png)
+
+And then I thought to myself, I should revisit the iOS tracker that I have been working on for about 3 years. And then I discovered that not only is the whole thing buggy as hell, but the basic underlying interface concept is terrible. That was the part that I was most excited about. Frustrating, but not the end of the world, I just need to rethink everything.
+
+I notice that when I have one major project going, the other projects become fragmented and difficult to focus on moving the core bits forward. This is something to deal with in the coming week I think.
