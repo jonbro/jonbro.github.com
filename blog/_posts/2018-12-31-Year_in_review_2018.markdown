@@ -3,7 +3,7 @@ layout: post
 title: Year In Review 2018
 ---
 
-For my job I released a big game - I did mostly ui programming, but that overlapped pretty heavily with design work. I also did a bunch of little bits and bobs, shipping a game is seldom a straight path, and my role has always been fluid. I am glad that I have managed to keep fluidity in my role even though I am now working with a larger group.
+For my job I released a big game - I did mostly ui programming, but that overlapped pretty heavily with design work. I also did a bunch of little bits and bobs, shipping a game is seldom a straight path, and my role has always been fluid. I am glad that I have managed to keep fluidity in my role even though I am now working with a larger group. It came out in august, which is why I think I was a little light on personal projects in the middle of the year.
 
 [mglue](https://github.com/jonbro/mglue) is a tiny game engine. I based it on an older project I was working on, mgled, but this time I rewrote it in typescript, and started cleaning up the api so that other people might be able to understand it. It clearly still needs work before other people can use it, I feel like the largest stumbling block right now is the overhead of downloading and setting up the tool chain. I find myself bailing on other javascript projects unless they have a nice neat npm package, and even then, it tend to be too much work to make that function. That said, this project is in a place where when I go back to it, I can get back into making a game pretty quick.
 
@@ -12,6 +12,8 @@ I made three games with mglue:
 - [worm drive](https://jonbro.itch.io/worm-drive) - a strange take on nibbles / snake. I spent a reasonable amount of time tuning this and playtesting it. I think it is pretty good.
 - [juggle ship](https://jonbro.itch.io/juggle-ship) - playing with the ideas that I had for [snuggle ship](https://jonbro.itch.io/snuggle-ship) but attempting to make them into a more interesting play space. This is looser than the above game.
 - [lode tend](https://jonbro.itch.io/lode-tend) - I made this on a coast to coast flight. It didn't get much playtesting at all, but I had fun making it. There are much better versions of this game, but this one is mine.
+
+It isn't something I made this year, but ROFLpillar was curated into the [V&A videogames exhibition](https://www.vam.ac.uk/exhibitions/videogames). I am kinda floored to be in such good company there, and it was a massive boost to me to have a piece in that show. I think my pace on projects in the 4th part of the year can be partially attributed to this. We also took a month long family trip to the uk and germany to see this show and friends, and that put me in a great mood.
 
 I made an [ANSI art editor](http://asc-paint.glitch.me/) - this was just a quick project to do some setup for 7drl next year, but it is working pretty well with the 3 weeks of work that I have put into it. I have a laundry list of features to add to it based on feedback from the small version I made. I am also having a ton of fun making drawings with it.
 
