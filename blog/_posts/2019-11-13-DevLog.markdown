@@ -1,1 +1,9 @@
+---
+layout: post
+title: Dev Log 11/13/19
+---
 
+Going to start logging progress on my current project - so far I have just been splashing stuff across various social media, but I figure its good to have a singe place for it. Will probably just prepend stuff to this file as I do it.
+
+11/13/19
+Got boards and stencil tonight. Components come tomorrow night, and I should have the oven up and ready. I only got a stencil for the back board, so I get to attempt to do a qfn package with an incredibly small pitch by hand on the front board. I bought a backup of that component so I should be able to try it two different ways.
